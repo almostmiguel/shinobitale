@@ -1,13 +1,224 @@
 body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+  /***
+    ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
+    IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
+  ***/
+
+  /* Default Variables */
+  --font-default: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Microsoft YaHei Light", sans-serif;
+  --font-monospace: "Fira Code", "Fira Code Medium", "Source Code Pro", monospace;
+  --font-headers: "Calisto MT", "Palatino Black", "Book Antiqua", "Georgia", "Suez One", serif;
+  --inline-title-font: "Calisto MT", "Palatino Black", "Book Antiqua", "Georgia", "Suez One", serif;
+  --file-line-width: 700px;
+  --inline-title-size: 34px;
+  --h1-size: 34px;
+  --h2-size: 30px;
+  --h3-size: 26px;
+  --h4-size: 24px;
+  --h5-size: 20px;
+  --h6-size: 18px;
+  --nav-item-size: 14px;
+  --p-spacing: 1rem;
+  --header-spacing: 10px;
+  --header-border-line-height: 4px;
+
+  /* Dark Mode */
+  @media (prefers-color-scheme: dark) {
+    --deep-dark-accent: #3f1010;
+    --dark-accent: #652121;
+    --lite-accent: #c94d4d;
+    --accent: #863737;
+    --accent2: #42536e;
+    --accent2-lite: #61afef;
+    --side-bar: #1a1e24;
+    --outer-bar: #0b0f13;
+    --dark-sidebar: #0d1014;
+    --bttn: #652121;
+    --hvr: rgba(168, 60, 60, 0.4);
+    --hvr-active: rgba(212, 47, 47, 0.4);
+    --highlight: #7a141466;
+    --bg: #252c36;
+    --fg: #cfd7dd;
+    --inactive: #586477;
+    --folder: #863737;
+    --folder-open: #e05858;
+    --file-icon-color: #586477;
+    --note: #1a1e24;
+    --text: #bccad8;
+    --headers: #c14343;
+    --soft-text: #97a1b9;
+    --code-text: #fa4545;
+    --code-bg: #232831;
+    --embed-bg: #0d1014;
+    --aside-bg: #11151d;
+    --th: #652121;
+    --td: #06080c60;
+    --tag: #652121;
+    --tag-text: #d04e4e;
+    --table: #283345;
+    --hr: #2f3b4d;
+    --i-at: #bf5e5e;
+  }
+
+  /* Light Mode */
+  @media (prefers-color-scheme: light) {
+    --deep-dark-accent: #2f1010;
+    --dark-accent: #c35c5c;
+    --lite-accent: #cd2626;
+    --accent: #912e2e;
+    --accent2: #aac1d3;
+    --accent2-lite: #5599d0;
+    --side-bar: #f8fbff;
+    --outer-bar: #eef3fd;
+    --dark-sidebar: #f1f5ff;
+    --bttn: #c14343;
+    --hvr: rgba(255, 0, 0, 0.212);
+    --hvr-active: rgba(253, 115, 115, 0.4);
+    --highlight: rgba(229, 149, 149, 0.37);
+    --bg: #e1e9f6;
+    --fg: #912e2e;
+    --inactive: #a6bbde;
+    --folder: #912e2e;
+    --folder-open: #ce6d6d;
+    --file-icon-color: #7e8ea3;
+    --note: #f8fbff;
+    --text: #30353a;
+    --headers: #c14343;
+    --soft-text: #697580;
+    --code-text: #ea4262;
+    --code-bg: #f1f5ff;
+    --embed-bg: #f1f5ff;
+    --aside-bg: #f1f5ff;
+    --th: #c14343;
+    --td: #d0ddef62;
+    --tag: #c65656;
+    --tag-text: #5599d0;
+    --table: #ccd6eb;
+    --hr: #d6deea;
+    --i-at: #912e2e;
+  }
+
+  /* General Styles */
+  font-family: var(--font-default);
+  color: var(--text);
+  background-color: var(--note);
+  max-width: var(--file-line-width);
+  margin: 0 auto;
+  padding: 20px;
+  line-height: 1.6;
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-headers);
+    color: var(--headers);
+    margin-top: var(--header-spacing);
+    margin-bottom: var(--header-spacing);
+    border-bottom: var(--header-border-line-height) solid var(--table);
+  }
+
+  h1 { font-size: var(--h1-size); }
+  h2 { font-size: var(--h2-size); }
+  h3 { font-size: var(--h3-size); }
+  h4 { font-size: var(--h4-size); }
+  h5 { font-size: var(--h5-size); }
+  h6 { font-size: var(--h6-size); }
+
+  h1.inline-title {
+    font-family: var(--inline-title-font);
+    font-size: var(--inline-title-size);
+    color: var(--headers);
+  }
+
+  p {
+    margin: var(--p-spacing) 0;
+  }
+
+  a {
+    color: var(--accent2-lite);
+    text-decoration: none;
+  }
+  a:hover {
+    color: var(--lite-accent);
+  }
+
+  code, pre {
+    font-family: var(--font-monospace);
+    background-color: var(--code-bg);
+    color: var(--code-text);
+    padding: 2px 4px;
+    border-radius: 4px;
+  }
+
+  pre {
+    padding: 10px;
+    overflow-x: auto;
+  }
+
+  blockquote {
+    border-left: 2px solid var(--headers);
+    background-color: var(--embed-bg);
+    padding: 10px 20px;
+    margin: 1em 0;
+  }
+
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    background-color: var(--table);
+  }
+  th {
+    background-color: var(--th);
+    color: var(--text);
+  }
+  td, th {
+    border: 1px solid var(--note);
+    padding: 8px;
+  }
+  tr:nth-child(even) {
+    background-color: var(--td);
+  }
+  tr:hover {
+    background-color: var(--highlight);
+  }
+
+  hr {
+    border: none;
+    border-top: 1px solid var(--hr);
+    margin: 20px 0;
+  }
+
+  .tag {
+    background-color: var(--tag);
+    color: var(--tag-text);
+    padding: 2px 6px;
+    border-radius: 4px;
+    text-decoration: none;
+  }
+  .tag:hover {
+    background-color: var(--accent);
+  }
+
+  /* Sidebar (if applicable) */
+  nav {
+    font-size: var(--nav-item-size);
+    background-color: var(--side-bar);
+    padding: 10px;
+  }
+  nav a {
+    color: var(--soft-text);
+  }
+  nav a:hover {
+    background-color: var(--dark-accent);
+  }
+
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    padding: 10px;
+    max-width: 100%;
+    h1 { font-size: calc(var(--h1-size) * 0.8); }
+    h2 { font-size: calc(var(--h2-size) * 0.8); }
+    h3 { font-size: calc(var(--h3-size) * 0.8); }
+    h4 { font-size: calc(var(--h4-size) * 0.8); }
+    h5 { font-size: calc(var(--h5-size) * 0.8); }
+    h6 { font-size: calc(var(--h6-size) * 0.8); }
+  }
 }
