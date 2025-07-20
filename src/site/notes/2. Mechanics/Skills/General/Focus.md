@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/skills/general/focus/"}
+{"dg-publish":true,"permalink":"/2-mechanics/skills/general/focus/","noteIcon":""}
 ---
 
 *Intelligence*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/precise-shot/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/precise-shot/","noteIcon":""}
 ---
 
 You have trained to aim and fire at exact moments and locations.

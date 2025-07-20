@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/specialist/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/specialist/","noteIcon":""}
 ---
 
 - **Benefit:**  

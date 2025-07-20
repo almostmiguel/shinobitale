@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/reflexes/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/reflexes/","noteIcon":""}
 ---
 
 You are exceptionally skilled at dodging attacks and projectiles.

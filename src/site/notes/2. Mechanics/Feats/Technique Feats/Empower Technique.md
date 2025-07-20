@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/technique-feats/empower-technique/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/technique-feats/empower-technique/","noteIcon":""}
 ---
 
 

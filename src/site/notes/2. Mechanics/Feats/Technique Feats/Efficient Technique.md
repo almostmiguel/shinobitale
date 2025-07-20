@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/technique-feats/efficient-technique/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/technique-feats/efficient-technique/","noteIcon":""}
 ---
 
 

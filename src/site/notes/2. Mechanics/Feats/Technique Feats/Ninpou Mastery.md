@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/technique-feats/ninpou-mastery/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/technique-feats/ninpou-mastery/","noteIcon":""}
 ---
 
 Your ninja art projectiles are swift and difficult to evade.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/skills/social/bluff/"}
+{"dg-publish":true,"permalink":"/2-mechanics/skills/social/bluff/","noteIcon":""}
 ---
 
 *Manipulation + ½ Intelligence*

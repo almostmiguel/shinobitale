@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/general-feats/medical-ninja/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/general-feats/medical-ninja/","noteIcon":""}
 ---
 
 The character has focused their studies and training on medical knowledge.

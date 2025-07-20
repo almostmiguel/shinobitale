@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/follow-up-strike/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/follow-up-strike/","noteIcon":""}
 ---
 
 You can follow up a successful melee kill with an additional strike.

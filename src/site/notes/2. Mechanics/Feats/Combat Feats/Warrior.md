@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/warrior/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/warrior/","noteIcon":""}
 ---
 
 You specialize in fighting with heavy or long weapons.

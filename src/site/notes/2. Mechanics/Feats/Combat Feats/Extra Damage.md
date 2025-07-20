@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/extra-damage/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/extra-damage/","noteIcon":""}
 ---
 
 Your training and experience have taught you to always seek your enemy’s weak spots.

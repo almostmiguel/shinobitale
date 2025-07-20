@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/brawler/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/brawler/","noteIcon":""}
 ---
 
 You are skilled in unarmed martial arts.

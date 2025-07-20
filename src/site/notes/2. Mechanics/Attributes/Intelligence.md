@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/attributes/intelligence/"}
+{"dg-publish":true,"permalink":"/2-mechanics/attributes/intelligence/","noteIcon":""}
 ---
 
 The Intelligence Attribute represents a character’s intellect and reasoning capacity. This ability covers everything from quick thinking to learning and developing Skills.

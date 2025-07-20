@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/weapon-block/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/weapon-block/","noteIcon":""}
 ---
 
 You are skilled at blocking armed melee attacks with greater ease.

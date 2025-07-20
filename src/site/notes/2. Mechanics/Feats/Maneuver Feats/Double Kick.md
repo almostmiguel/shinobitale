@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/double-kick/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/double-kick/","noteIcon":""}
 ---
 
 You deliver two kicks in quick succession, usually a combination of two spinning kicks or a low kick followed by a high kick.

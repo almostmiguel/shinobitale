@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/counterattack/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/counterattack/","noteIcon":""}
 ---
 
 You are skilled at striking back when an enemy’s melee attack fails.

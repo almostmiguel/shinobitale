@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/improved-critical/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/improved-critical/","noteIcon":""}
 ---
 
 You know how to land deadly, precise strikes.

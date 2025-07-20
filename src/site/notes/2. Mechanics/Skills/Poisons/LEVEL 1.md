@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/skills/poisons/level-1/"}
+{"dg-publish":true,"permalink":"/2-mechanics/skills/poisons/level-1/","noteIcon":""}
 ---
 
 **Prerequisite**: Poisoncraft 10  

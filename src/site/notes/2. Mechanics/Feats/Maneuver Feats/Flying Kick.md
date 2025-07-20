@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/flying-kick/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/flying-kick/","noteIcon":""}
 ---
 
 You run and launch yourself at the enemy with one foot in the air, aiming to hit their head or torso.

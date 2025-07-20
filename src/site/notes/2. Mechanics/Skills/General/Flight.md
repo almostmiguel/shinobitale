@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/skills/general/flight/"}
+{"dg-publish":true,"permalink":"/2-mechanics/skills/general/flight/","noteIcon":""}
 ---
 
 *Dexterity / Armor*

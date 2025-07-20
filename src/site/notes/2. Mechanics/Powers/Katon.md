@@ -1,3 +1,3 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/powers/katon/"}
+{"dg-publish":true,"permalink":"/2-mechanics/powers/katon/","noteIcon":""}
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/shinobi-feats/shunjutsu/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/shinobi-feats/shunjutsu/","noteIcon":""}
 ---
 
 The character can use **Shunshin no Jutsu** in combat.

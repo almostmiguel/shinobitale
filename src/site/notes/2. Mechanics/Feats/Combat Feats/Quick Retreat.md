@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/quick-retreat/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/quick-retreat/","noteIcon":""}
 ---
 
 You are skilled at quickly escaping your opponents’ melee reach.

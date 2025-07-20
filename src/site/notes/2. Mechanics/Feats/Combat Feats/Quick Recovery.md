@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/quick-recovery/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/quick-recovery/","noteIcon":""}
 ---
 
 You rise to your feet faster than most.

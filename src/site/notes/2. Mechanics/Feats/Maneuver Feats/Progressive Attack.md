@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/progressive-attack/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/progressive-attack/","noteIcon":""}
 ---
 
 You can chain quick successive strikes after completing a combo.

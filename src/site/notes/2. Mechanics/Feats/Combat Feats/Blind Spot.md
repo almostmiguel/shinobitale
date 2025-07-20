@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/blind-spot/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/blind-spot/","noteIcon":""}
 ---
 
 You know how to distract your opponents in combat.

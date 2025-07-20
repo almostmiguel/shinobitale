@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/technique-feats/fire-mastery/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/technique-feats/fire-mastery/","noteIcon":""}
 ---
 
 Your flames produce nearly unbearable heat.

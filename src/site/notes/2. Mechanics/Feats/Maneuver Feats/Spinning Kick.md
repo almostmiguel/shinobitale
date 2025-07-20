@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/spinning-kick/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/spinning-kick/","noteIcon":""}
 ---
 
 You spin and deliver a powerful kick, using the momentum of the spin to increase its impact.

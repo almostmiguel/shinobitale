@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/hand-seal-mastery/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/hand-seal-mastery/","noteIcon":""}
 ---
 
 You are particularly skilled at performing hand seals at high speed.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/karate-blow/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/karate-blow/","noteIcon":""}
 ---
 
 You can perform a powerful strike with an extended hand.

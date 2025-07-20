@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/heavy-armor-training/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/heavy-armor-training/","noteIcon":""}
 ---
 
 You have been trained to wear heavy armor.

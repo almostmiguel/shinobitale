@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/shinobi-feats/clone/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/shinobi-feats/clone/","noteIcon":""}
 ---
 
 You can create an exact material replica of yourself, indistinguishable from the original to the naked eye.

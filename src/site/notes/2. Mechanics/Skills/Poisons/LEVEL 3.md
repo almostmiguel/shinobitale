@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/skills/poisons/level-3/"}
+{"dg-publish":true,"permalink":"/2-mechanics/skills/poisons/level-3/","noteIcon":""}
 ---
 
 **Prerequisite**: Poisoncraft 14  

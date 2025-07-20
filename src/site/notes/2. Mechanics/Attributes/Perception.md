@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/attributes/perception/"}
+{"dg-publish":true,"permalink":"/2-mechanics/attributes/perception/","noteIcon":""}
 ---
 
 The **Perception Attribute** represents how sharp a character’s senses are and their ability to interpret instincts in time to avoid surprises in certain situations.

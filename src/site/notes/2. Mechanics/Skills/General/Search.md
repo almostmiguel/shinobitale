@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/skills/general/search/"}
+{"dg-publish":true,"permalink":"/2-mechanics/skills/general/search/","noteIcon":""}
 ---
 
 *Perception*

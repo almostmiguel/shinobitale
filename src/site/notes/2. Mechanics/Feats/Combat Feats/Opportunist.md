@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/opportunist/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/opportunist/","noteIcon":""}
 ---
 
 You are quick to react and strike repeatedly against foes who lower their guard.

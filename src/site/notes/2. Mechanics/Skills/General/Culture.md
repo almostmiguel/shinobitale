@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/skills/general/culture/"}
+{"dg-publish":true,"permalink":"/2-mechanics/skills/general/culture/","noteIcon":""}
 ---
 
 *Intelligence*

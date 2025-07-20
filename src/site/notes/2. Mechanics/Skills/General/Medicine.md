@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/skills/general/medicine/"}
+{"dg-publish":true,"permalink":"/2-mechanics/skills/general/medicine/","noteIcon":""}
 ---
 
 *Intelligence / Trained*

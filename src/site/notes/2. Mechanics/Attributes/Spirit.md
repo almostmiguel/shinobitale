@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/attributes/spirit/"}
+{"dg-publish":true,"permalink":"/2-mechanics/attributes/spirit/","noteIcon":""}
 ---
 
 The Spirit Attribute represents a character’s control over their chakra, both in manipulating it and extracting it from their body. Shinobi who frequently use Ninjutsu typically have this Attribute well-developed, as many Ninjutsu techniques require significant chakra control.

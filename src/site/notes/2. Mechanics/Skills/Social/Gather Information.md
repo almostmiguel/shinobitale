@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/skills/social/gather-information/"}
+{"dg-publish":true,"permalink":"/2-mechanics/skills/social/gather-information/","noteIcon":""}
 ---
 
 *Charisma + ½ Intelligence*

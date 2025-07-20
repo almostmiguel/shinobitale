@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/technique-feats/wind-mastery/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/technique-feats/wind-mastery/","noteIcon":""}
 ---
 
 You create gales that hinder your opponents’ advance.

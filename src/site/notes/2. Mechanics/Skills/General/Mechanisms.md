@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/skills/general/mechanisms/"}
+{"dg-publish":true,"permalink":"/2-mechanics/skills/general/mechanisms/","noteIcon":""}
 ---
 
 *Intelligence / Trained*

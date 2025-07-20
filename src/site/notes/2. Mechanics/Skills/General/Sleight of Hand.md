@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/skills/general/sleight-of-hand/"}
+{"dg-publish":true,"permalink":"/2-mechanics/skills/general/sleight-of-hand/","noteIcon":""}
 ---
 
 *Dexterity*

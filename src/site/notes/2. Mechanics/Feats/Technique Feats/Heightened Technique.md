@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/technique-feats/heightened-technique/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/technique-feats/heightened-technique/","noteIcon":""}
 ---
 
 You can make it harder for your enemies to resist your techniques.

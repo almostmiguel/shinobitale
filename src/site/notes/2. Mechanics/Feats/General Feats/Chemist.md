@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/general-feats/chemist/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/general-feats/chemist/","noteIcon":""}
 ---
 
 Your character has become proficient in the art of creating poisons and their antidotes.

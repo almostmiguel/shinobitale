@@ -1,3 +1,3 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/powers/fuuinjutsu/"}
+{"dg-publish":true,"permalink":"/2-mechanics/powers/fuuinjutsu/","noteIcon":""}
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/technique-feats/powerful-technique/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/technique-feats/powerful-technique/","noteIcon":""}
 ---
 
 Your techniques deal additional damage.

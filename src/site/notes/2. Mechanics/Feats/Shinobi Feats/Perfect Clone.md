@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/shinobi-feats/perfect-clone/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/shinobi-feats/perfect-clone/","noteIcon":""}
 ---
 
 Your clones are nearly perfect replicas capable of using jutsu.

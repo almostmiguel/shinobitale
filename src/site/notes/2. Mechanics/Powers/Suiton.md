@@ -1,3 +1,3 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/powers/suiton/"}
+{"dg-publish":true,"permalink":"/2-mechanics/powers/suiton/","noteIcon":""}
 ---

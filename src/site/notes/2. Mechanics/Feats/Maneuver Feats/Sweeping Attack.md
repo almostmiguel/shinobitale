@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/sweeping-attack/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/sweeping-attack/","noteIcon":""}
 ---
 
 You can strike multiple nearby enemies with an incredible sweeping attack.

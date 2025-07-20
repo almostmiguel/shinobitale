@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/mobile-assault/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/mobile-assault/","noteIcon":""}
 ---
 
 You’ve trained to strike while in motion, weaving in and out of combat with speed and precision.

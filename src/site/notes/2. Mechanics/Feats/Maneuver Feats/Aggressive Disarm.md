@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/aggressive-disarm/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/aggressive-disarm/","noteIcon":""}
 ---
 
 You execute precise and lethal disarming maneuvers.

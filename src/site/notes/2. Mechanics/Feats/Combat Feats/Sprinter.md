@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/sprinter/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/sprinter/","noteIcon":""}
 ---
 
 You are exceptionally fast.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/skills/social/intimidation/"}
+{"dg-publish":true,"permalink":"/2-mechanics/skills/social/intimidation/","noteIcon":""}
 ---
 
 *Manipulation + ½ Perception*

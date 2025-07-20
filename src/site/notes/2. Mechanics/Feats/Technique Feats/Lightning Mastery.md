@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/technique-feats/lightning-mastery/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/technique-feats/lightning-mastery/","noteIcon":""}
 ---
 
 You generate extremely dangerous electrical currents.

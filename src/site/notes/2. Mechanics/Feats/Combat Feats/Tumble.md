@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/tumble/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/tumble/","noteIcon":""}
 ---
 
 You are skilled at reducing damage when falling or being knocked down.

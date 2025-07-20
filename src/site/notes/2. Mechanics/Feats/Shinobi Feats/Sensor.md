@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/shinobi-feats/sensor/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/shinobi-feats/sensor/","noteIcon":""}
 ---
 
 The character can locate creatures through their chakra.

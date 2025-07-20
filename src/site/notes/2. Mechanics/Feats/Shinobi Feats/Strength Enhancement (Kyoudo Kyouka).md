@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/shinobi-feats/strength-enhancement-kyoudo-kyouka/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/shinobi-feats/strength-enhancement-kyoudo-kyouka/","noteIcon":""}
 ---
 
 Through pure chakra control, you can deliver punches and kicks with superhuman strength, capable of creating craters or even killing a target in a single blow.

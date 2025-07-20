@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/skills/poisons/level-2/"}
+{"dg-publish":true,"permalink":"/2-mechanics/skills/poisons/level-2/","noteIcon":""}
 ---
 
 **Prerequisite**: Poisoncraft 12  

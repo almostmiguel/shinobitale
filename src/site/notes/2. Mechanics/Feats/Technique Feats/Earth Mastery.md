@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/technique-feats/earth-mastery/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/technique-feats/earth-mastery/","noteIcon":""}
 ---
 
 You can create more resilient barriers.

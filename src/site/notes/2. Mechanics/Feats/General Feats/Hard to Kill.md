@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/general-feats/hard-to-kill/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/general-feats/hard-to-kill/","noteIcon":""}
 ---
 
 You withstand injuries that would fell others.

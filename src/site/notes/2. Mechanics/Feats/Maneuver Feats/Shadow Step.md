@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/shadow-step/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/shadow-step/","noteIcon":""}
 ---
 
 You chase your opponent to attack them again after throwing them.

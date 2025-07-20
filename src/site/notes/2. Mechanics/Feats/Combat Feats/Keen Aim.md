@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/keen-aim/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/keen-aim/","noteIcon":""}
 ---
 
 Your shots strike with deadly precision.

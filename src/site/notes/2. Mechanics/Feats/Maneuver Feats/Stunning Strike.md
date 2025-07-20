@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/stunning-strike/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/stunning-strike/","noteIcon":""}
 ---
 
 You know how to strike vulnerable spots to stun your foes.

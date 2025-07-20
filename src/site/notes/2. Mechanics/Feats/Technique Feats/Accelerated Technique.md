@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/technique-feats/accelerated-technique/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/technique-feats/accelerated-technique/","noteIcon":""}
 ---
 
 You can perform techniques more quickly.

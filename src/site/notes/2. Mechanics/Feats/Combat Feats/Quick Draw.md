@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/quick-draw/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/quick-draw/","noteIcon":""}
 ---
 
 You can draw your weapons with astonishing speed.

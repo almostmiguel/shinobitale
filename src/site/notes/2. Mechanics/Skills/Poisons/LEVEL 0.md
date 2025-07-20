@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/skills/poisons/level-0/"}
+{"dg-publish":true,"permalink":"/2-mechanics/skills/poisons/level-0/","noteIcon":""}
 ---
 
 **Prerequisite**: Poisoncraft 4  

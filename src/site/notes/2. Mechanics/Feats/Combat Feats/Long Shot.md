@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/long-shot/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/long-shot/","noteIcon":""}
 ---
 
 You can strike targets at greater distances with ranged weapons.

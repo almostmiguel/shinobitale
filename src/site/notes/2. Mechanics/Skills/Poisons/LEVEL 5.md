@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/skills/poisons/level-5/"}
+{"dg-publish":true,"permalink":"/2-mechanics/skills/poisons/level-5/","noteIcon":""}
 ---
 
 **Prerequisite**: Dokujutsu 8, Poisoncraft 18  

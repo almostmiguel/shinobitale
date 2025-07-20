@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/mobility/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/mobility/","noteIcon":""}
 ---
 
 You’ve trained to dodge between opponents and avoid their strikes.

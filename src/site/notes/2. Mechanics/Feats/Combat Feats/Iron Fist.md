@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/iron-fist/"}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/iron-fist/","noteIcon":""}
 ---
 
 You are a master of unarmed combat.

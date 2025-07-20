@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/attributes/dexterity/"}
+{"dg-publish":true,"permalink":"/2-mechanics/attributes/dexterity/","noteIcon":""}
 ---
 
 Dexterity represents a character’s ability to use their hands for throwing weapons, concealing objects, or performing hand seals, as well as their skill in making ranged attacks.
