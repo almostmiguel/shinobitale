@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/atemi-strike/","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/atemi-strike/"}
 ---
 
 You are especially skilled at hitting vital points.

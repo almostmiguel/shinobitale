@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/finesse/","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/finesse/"}
 ---
 
 You are especially agile with light weapons that rely more on speed and precision than brute strength.

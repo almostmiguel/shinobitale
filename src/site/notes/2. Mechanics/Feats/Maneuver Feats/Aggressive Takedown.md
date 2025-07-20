@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/aggressive-takedown/","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/aggressive-takedown/"}
 ---
 
 You strike with precision and force when knocking down your opponent.

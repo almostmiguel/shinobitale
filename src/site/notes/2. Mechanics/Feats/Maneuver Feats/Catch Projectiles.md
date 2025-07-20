@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/catch-projectiles/","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/catch-projectiles/"}
 ---
 
 You can catch projectiles thrown at you mid-air, such as arrows, bolts, and thrown weapons.

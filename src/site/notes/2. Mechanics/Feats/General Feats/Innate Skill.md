@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/general-feats/innate-skill/","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/general-feats/innate-skill/"}
 ---
 
 The character has a natural talent in a specific skill.

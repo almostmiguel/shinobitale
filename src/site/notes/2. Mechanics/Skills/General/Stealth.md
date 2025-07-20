@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/skills/general/stealth/","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-mechanics/skills/general/stealth/"}
 ---
 
 *Dexterity / Armor*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/throw/","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/throw/"}
 ---
 
 You are a master at throwing and knocking down your opponents.

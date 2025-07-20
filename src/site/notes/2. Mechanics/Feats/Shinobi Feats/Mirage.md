@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/shinobi-feats/mirage/","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/shinobi-feats/mirage/"}
 ---
 
 You use chakra to alter the environment’s appearance and how it is perceived by others, deceiving those who observe it.

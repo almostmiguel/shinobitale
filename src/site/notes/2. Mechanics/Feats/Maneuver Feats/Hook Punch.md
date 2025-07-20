@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/hook-punch/","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/hook-punch/"}
 ---
 
 You finish a sequence of strikes with a strong and precise hook punch.

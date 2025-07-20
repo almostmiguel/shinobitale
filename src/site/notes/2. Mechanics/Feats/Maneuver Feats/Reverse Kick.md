@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/reverse-kick/","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/reverse-kick/"}
 ---
 
 You feint a kick near your opponent’s head, then quickly reverse the motion to strike them with your heel.

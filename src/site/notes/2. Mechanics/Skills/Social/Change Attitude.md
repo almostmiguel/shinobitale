@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/skills/social/change-attitude/","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-mechanics/skills/social/change-attitude/"}
 ---
 
 *Manipulation + ½ Perception*

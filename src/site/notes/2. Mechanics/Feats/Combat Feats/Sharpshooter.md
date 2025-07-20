@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/sharpshooter/","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/sharpshooter/"}
 ---
 
 Through rigorous training, you've become especially skilled at firing or throwing projectiles with precision and force.

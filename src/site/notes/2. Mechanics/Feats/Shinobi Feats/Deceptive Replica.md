@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/shinobi-feats/deceptive-replica/","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/shinobi-feats/deceptive-replica/"}
 ---
 
 You create an elemental or other type of clone and swap places with it before suffering an attack.

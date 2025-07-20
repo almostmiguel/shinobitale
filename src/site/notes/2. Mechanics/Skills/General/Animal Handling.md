@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/skills/general/animal-handling/","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-mechanics/skills/general/animal-handling/"}
 ---
 
 *Perception / Trained*

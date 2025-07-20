@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/multiattack/","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/multiattack/"}
 ---
 
 You can strike multiple times when armed or unarmed, splitting your damage among your attacks.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/general-feats/engineer/","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/general-feats/engineer/"}
 ---
 
 Your character has honed their skills in manipulating devices and mechanical and technological arts.

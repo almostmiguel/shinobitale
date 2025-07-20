@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/skills/general/poisoncraft/","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-mechanics/skills/general/poisoncraft/"}
 ---
 
 *Intelligence / Trained*

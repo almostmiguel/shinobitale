@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/shinobi-feats/fascinate/","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/shinobi-feats/fascinate/"}
 ---
 
 You can create illusions that directly affect the target’s mind.

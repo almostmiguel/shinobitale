@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/defensive-combat/","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/defensive-combat/"}
 ---
 
 You’ve learned to balance offense and defense, trading precision for greater survivability in close quarters.

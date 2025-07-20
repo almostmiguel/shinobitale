@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/skills/social/acting/","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-mechanics/skills/social/acting/"}
 ---
 
 *Charisma + ½ Art*

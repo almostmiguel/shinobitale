@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/technique-feats/water-mastery/","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/technique-feats/water-mastery/"}
 ---
 
 You know how to use ambient water or the remnants of your techniques to increase the power of your attacks.

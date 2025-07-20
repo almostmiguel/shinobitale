@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/technique-feats/deep-illusion/","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/technique-feats/deep-illusion/"}
 ---
 
 Your illusions torment deep levels of the mind.

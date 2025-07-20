@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/powerful-strike/","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/powerful-strike/"}
 ---
 
 You are capable of delivering exceptionally strong melee attacks.

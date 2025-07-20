@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/shinobi-feats/hard-work/","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/shinobi-feats/hard-work/"}
 ---
 
 You are not a genius, know no secret techniques, or belong to a clan, but you train every day to match the great ninjas.

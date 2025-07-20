@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/leg-sweep/","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/maneuver-feats/leg-sweep/"}
 ---
 
 This maneuver is a low and powerful kick, designed to knock down an opponent, and can also cause damage.

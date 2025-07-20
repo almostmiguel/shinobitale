@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/blind-fighting/","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/blind-fighting/"}
 ---
 
 You have enhanced ability to strike targets you cannot see.

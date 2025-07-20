@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/skills/general/disguise/","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-mechanics/skills/general/disguise/"}
 ---
 
 *Perception*

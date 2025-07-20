@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/skills/general/athletics/","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-mechanics/skills/general/athletics/"}
 ---
 
 *Strength / Armor*

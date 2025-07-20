@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/general-feats/greater-resistance/","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/general-feats/greater-resistance/"}
 ---
 
 You are especially resilient to certain types of dangers.

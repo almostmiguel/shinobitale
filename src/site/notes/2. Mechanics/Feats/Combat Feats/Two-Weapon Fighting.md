@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/two-weapon-fighting/","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/two-weapon-fighting/"}
 ---
 
 You are trained in wielding a weapon in each hand with speed and coordination.

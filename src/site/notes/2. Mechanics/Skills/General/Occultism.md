@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/skills/general/occultism/","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-mechanics/skills/general/occultism/"}
 ---
 
 *Intelligence / Trained*

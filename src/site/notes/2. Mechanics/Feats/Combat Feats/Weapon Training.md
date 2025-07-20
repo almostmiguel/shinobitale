@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/weapon-training/","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/weapon-training/"}
 ---
 
 Choose one martial or special weapon. You are trained to fight with the selected weapon.

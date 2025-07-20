@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/two-weapon-block/","noteIcon":""}
+{"dg-publish":true,"permalink":"/2-mechanics/feats/combat-feats/two-weapon-block/"}
 ---
 
 You’ve trained to defend skillfully while wielding two weapons or a double weapon.
