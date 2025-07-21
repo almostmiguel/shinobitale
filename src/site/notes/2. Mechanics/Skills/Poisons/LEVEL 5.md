@@ -13,8 +13,8 @@ Once in the victim’s body, whether by ingestion or injection, the poison sprea
 **Effects**:
 
 - **If the victim fails the resistance check**: They feel their blood boiling, as described above, and become debilitated (-3) for all checks for 1 hour.
-- Each time they fail a subsequent resistance check, they lose 15 Vitality points.
-- If they fail three resistance checks (consecutive or not), they become paralyzed and fall to the ground. On the next round, they fall unconscious, and their Vitality is reduced to zero. If not treated within three days, the character dies.
+- Each time they fail a subsequent resistance check, they lose 15 Hit Points.
+- If they fail three resistance checks (consecutive or not), they become paralyzed and fall to the ground. On the next round, they fall unconscious, and their Hit Points are reduced to zero. If not treated within three days, the character dies.
 - Crafting an antidote for Red Death is so difficult that it is said to be incurable.
 
 # **Red Scorpion Venom**  
@@ -24,8 +24,8 @@ The venom evaporates quickly upon contact with air, making it hard to handle, bu
 
 **Effects**:
 
-- **If the victim fails the resistance check**: They become paralyzed due to pain in the first round of the poison’s effect, lose 10 Vitality points per round, and become debilitated (-3) for all checks for 1 day.
-- If they fail three resistance checks (consecutive or not), they become paralyzed and fall to the ground. On the next round, they fall unconscious, and their Vitality is reduced to zero. If not treated within three days, the character dies.
+- **If the victim fails the resistance check**: They become paralyzed due to pain in the first round of the poison’s effect, lose 10 Hit Points per round, and become debilitated (-3) for all checks for 1 day.
+- If they fail three resistance checks (consecutive or not), they become paralyzed and fall to the ground. On the next round, they fall unconscious, and their Hit Points are reduced to zero. If not treated within three days, the character dies.
 - It is said that this poison cannot be neutralized by any known medical procedure.
 
 # **Black Salamander Venom**  

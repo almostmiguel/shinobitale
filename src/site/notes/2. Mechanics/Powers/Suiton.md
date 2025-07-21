@@ -56,7 +56,7 @@ The dome’s thickness and chakra density render the target **paralyzed**, but t
 
 The effect can target multiple creatures if used via **Water Clones** (1 target per clone). Using a **Mizu Bunshin** avoids the close-combat penalty if far enough from the target, but the original user must maintain **concentration** (see Mizu Bunshin).
 
-A paralyzed target can use a **standard action** to make a **Strength** test (standard difficulty) or **Stamina** test (standard difficulty -2) to regain mobility for the scene, allowing them to attack the prison from within to destroy it. If a **coup de grâce** is attempted, the prison absorbs the attack and dissipates, with any excess damage affecting the target (automatic success, roll 2 dice for damage degree). Special defenses (e.g., **Kamui** intangibility) still apply.
+A paralyzed target can use a **standard action** to make a **Strength** test (standard difficulty) or **Vigor** test (standard difficulty -2) to regain mobility for the scene, allowing them to attack the prison from within to destroy it. If a **coup de grâce** is attempted, the prison absorbs the attack and dissipates, with any excess damage affecting the target (automatic success, roll 2 dice for damage degree). Special defenses (e.g., **Kamui** intangibility) still apply.
 
 This effect cannot be used with **meta-aptitudes**.
 
@@ -80,7 +80,7 @@ You conjure a large volume of water that surges violently over an area, dealing 
 
 The technique can be sustained by **concentration**, costing **half the chakra** each turn. Targets failing their defensive action are swept up by the waves and must pass an **Athletics (Swimming)** test (standard difficulty) with a **movement action** to reach the surface, or they suffer **suffocation** (fixed damage equal to the effect’s base damage). Submerged targets cannot be targeted by other physical attacks.
 
-Alternatively, a target can use a **standard action** to swim to the surface without a test or hold their breath with a **Stamina** test (standard difficulty -2; see Suffocation).
+Alternatively, a target can use a **standard action** to swim to the surface without a test or hold their breath with a **Vigor** test (standard difficulty -2; see Suffocation).
 
 While concentrating, you can continue attacking to trap additional targets (requiring a new attack test) and freely move the wave’s area within the power’s range. Submerged targets are unaffected by further attacks from this effect.
 

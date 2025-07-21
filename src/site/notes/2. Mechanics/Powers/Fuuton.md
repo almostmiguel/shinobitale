@@ -48,7 +48,7 @@ This technique enhances a real slashing or piercing weapon (not natural weapons 
 
 - **Improved Edge**: The weapon ignores **1 point of target hardness**. Any normal weapon blocking or blocked by a Sharpened weapon is destroyed unless under the **Energize** effect (except **Energize Raiton**), in which case your attack is an **automatic success**.
 - **Improved Critical**: The weapon’s critical range increases by **1** (e.g., 15–16 becomes 14–15–16). This does not stack with other critical range bonuses.
-- **Extended Blade**: You create a chakra blade extending up to **30cm** from the weapon, controlled at will. This doesn’t increase melee range but complicates enemy defense. Make a resisted **Spirit vs. Alertness** test when attacking. If successful, the target takes a **-1 penalty** to **Dodge**, **Anticipate**, and **Block** reactions.
+- **Extended Blade**: You create a chakra blade extending up to **30cm** from the weapon, controlled at will. This doesn’t increase melee range but complicates enemy defense. Make a resisted **Spirit vs. Notice** test when attacking. If successful, the target takes a **-1 penalty** to **Dodge**, **Anticipate**, and **Block** reactions.
 - **Extended Shuriken**: Applies to simple shuriken. One use extends the blades of up to **three shuriken**, changing their combined base damage to the **power’s standard damage**.
 
 ---
@@ -67,8 +67,8 @@ This technique enhances a real slashing or piercing weapon (not natural weapons 
 
 You emit chakra from your fingertips, creating near-invisible, high-speed spinning wind blades and hurl them at the target. The blades dissipate immediately after hitting. You create and throw **1 blade per power level**, each dealing **1 base damage** (total **3 damage per blade** with Fuuton’s +2 bonus). Only the elemental bonus applies; no other damage bonuses are added.
 
-Make one **attack test** for all blades; the target makes one defense. Before defending, the target must pass an **Alertness** test to see the attack. Failure means they are **feinted**. Creatures with **chakra vision** or **Kagura Shingan** automatically succeed. Other chakra sensors must test with **-2 difficulty**.
+Make one **attack test** for all blades; the target makes one defense. Before defending, the target must pass a **Notice** test to see the attack. Failure means they are **feinted**. Creatures with **chakra vision** or **Kagura Shingan** automatically succeed. Other chakra sensors must test with **-2 difficulty**.
 
 **Evolutions**:
 
-- **Wind Blade Level 10**: A target failing the Alertness test is **flat-footed**.
+- **Wind Blade Level 10**: A target failing the Notice test is **flat-footed**.

@@ -137,7 +137,7 @@ If destroyed, protected characters take the remaining damage after hardness redu
 
 You launch multiple projectiles (e.g., arrows, needles, shuriken, small fireballs), each dealing **2 base damage**. Create **1 projectile per power level**, targeting one or multiple creatures within range. Each target makes one defense regardless of projectile count. Damage bonuses (including elemental) apply only once per target.
 
-**Feint**: For **2 chakra**, use Arrows as a **Feint** to mask your next ranged attack (any type). Use **Prestidigitation** instead of **Agility** for the Feint test. No damage is dealt in this mode.
+**Feint**: For **2 chakra**, use Arrows as a **Feint** to mask your next ranged attack (any type). Use **Sleight of Hand** instead of **Dexterity** for the Feint test. No damage is dealt in this mode.
 
 **Evolutions**:
 
@@ -228,7 +228,7 @@ You can use Energize immediately after **Create Weapon** (same element) as a **f
 - **Damage**: See text
 - **Duration**: Concentration
 
-You create a hot, corrosive, or otherwise hazardous cloud, fired as a cone and settling as a circular area with **double the standard diameter**. It persists while you maintain **concentration**. At the start of your turn, living creatures in the cloud must pass a **Stamina test (standard difficulty -2)** or take **1 fixed damage per power level** and become **slowed** due to coughing or other adverse effects. You are unaffected. Creatures avoiding contact with the cloud for a turn avoid its effects.
+You create a hot, corrosive, or otherwise hazardous cloud, fired as a cone and settling as a circular area with **double the standard diameter**. It persists while you maintain **concentration**. At the start of your turn, living creatures in the cloud must pass a **Vigor test (standard difficulty -2)** or take **1 fixed damage per power level** and become **slowed** due to coughing or other adverse effects. You are unaffected. Creatures avoiding contact with the cloud for a turn avoid its effects.
 
 The cloud has an **imaginary hardness** (standard for the power). Area attacks with explosions (e.g., Katon) or winds (e.g., Fuuton) reduce its hardness. If reduced to zero, the cloud dissipates. Imaginary hardness follows object hardness rules but doesn’t reduce attack damage.
 
@@ -266,11 +266,11 @@ You project a cone-shaped attack (e.g., a fiery breath for Katon), dealing **sta
 - **Damage**: Standard for the power
 - **Duration**: Instantaneous
 
-You conjure a wave of water, mud, wind, or another fluid, sweeping enemies in a wave shape starting in front of you. Targets must pass a **Stamina test (standard difficulty -2)** or be pushed to the effect’s maximum distance. Colliding with an obstacle capable of stopping movement adds **+1 concussion damage**.
+You conjure a wave of water, mud, wind, or another fluid, sweeping enemies in a wave shape starting in front of you. Targets must pass a **Vigor test (standard difficulty -2)** or be pushed to the effect’s maximum distance. Colliding with an obstacle capable of stopping movement adds **+1 concussion damage**.
 
 **Evolutions**:
 
-- **Torrent Level 8**: Targets failing the Stamina test and colliding with an obstacle are also **stunned** until the end of their next turn.
+- **Torrent Level 8**: Targets failing the Vigor test and colliding with an obstacle are also **stunned** until the end of their next turn.
 
 **MISSILE**
 
@@ -298,11 +298,11 @@ You fire one or more missiles (e.g., mud dragon heads for Doton, sequential fire
 - **Damage**: Standard for the power
 - **Duration**: Instantaneous
 
-You project a shockwave around you (hemisphere or circle centered on you), taking forms like a fire explosion or water tornado. Targets take **standard power damage** and must pass a **Stamina test (standard difficulty -2)** or be pushed to the effect’s edge. Cannot be used with **Potentiate**.
+You project a shockwave around you (hemisphere or circle centered on you), taking forms like a fire explosion or water tornado. Targets take **standard power damage** and must pass a **Vigor test (standard difficulty -2)** or be pushed to the effect’s edge. Cannot be used with **Potentiate**.
 
 **Evolutions**:
 
-- **Explosive Wave Level 8**: Targets failing the Stamina test are also **knocked prone**.
+- **Explosive Wave Level 8**: Targets failing the Vigor test are also **knocked prone**.
 
 **SHACKLE**
 

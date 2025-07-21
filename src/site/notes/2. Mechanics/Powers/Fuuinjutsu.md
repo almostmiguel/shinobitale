@@ -100,7 +100,7 @@ You create a fixed trap that triggers a pre-selected ninjutsu from your arsenal 
 
 The first creature moving through the area triggers the ninjutsu, facing it with **-1 accuracy** on the stored test. If the ninjutsu has an area of effect, it becomes a **cone** originating from the seal. The trap cannot be disarmed unless you dispel it or it’s forcibly triggered.
 
-**Search** or **Alertness** tests to detect the trap have a difficulty of **7 + 2x power level**, and only creatures with **Occultism** or **Fuuinjutsu** can attempt them.
+**Search** or **Notice** tests to detect the trap have a difficulty of **7 + 2x power level**, and only creatures with **Occultism** or **Fuuinjutsu** can attempt them.
 
 #### LEVEL 7: CHAKRA NO SOUIN (CHAKRA CONTAINMENT SEAL)
 

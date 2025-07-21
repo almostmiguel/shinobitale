@@ -26,11 +26,11 @@ The **Raiton** (Lightning Release) power allows a shinobi to manipulate electric
 - **Damage**: See text
 - **Duration**: Sustained (1 attack)
 
-You concentrate a large amount of chakra in your hand, transform it into **Raiton**, and shape it into an electric discharge, producing a high-pitched chirping sound reminiscent of birds. Preparing the technique requires a **movement action**. Attacking requires touching the target (standard action, **Hand-to-Hand Combat (CC)** test) and deals **standard power damage**, ignoring **1 point of target hardness**.
+You concentrate a large amount of chakra in your hand, transform it into **Raiton**, and shape it into an electric discharge, producing a high-pitched chirping sound reminiscent of birds. Preparing the technique requires a **movement action**. Attacking requires touching the target (standard action, **Melee Combat (MC)** test) and deals **standard power damage**, ignoring **1 point of target hardness**.
 
 This effect destroys any normal weapon used to block it, causing the defense to fail, even if under the **Energize** effect (except for **Fuuton** or **Raiton** Energize). You can sustain the technique but can only make **one attack** (successful or not). If you defeat a **minion** with it, you can sustain it for **one additional attack** ( repeatable for multiple minions).
 
-For a **surprise attack** against a **flat-footed** target, the damage is at least **degree 2**. However, the target can make an **Alertness** test to notice the technique due to its noise, in addition to any other tests they’re entitled to.
+For a **surprise attack** against a **flat-footed** target, the damage is at least **degree 2**. However, the target can make an **Notice** test to notice the technique due to its noise, in addition to any other tests they’re entitled to.
 
 **Evolutions**:
 
@@ -56,7 +56,7 @@ This effect combines aspects of **Create Weapon** and **Energize** with restrict
 
 - **Energize**: [Chakra Cost: 3] You can use the **Energize** effect, but only for slashing or piercing weapons.
 - **Create Projectiles**: [Chakra Cost: 1] You create simple thrown weapons made of electricity, lasting until the start of your next turn after being thrown.
-- **Create Blade**: [Chakra Cost: 4] You create a short sword blade (or another light sword) from your hand, dealing damage per the **Energize** effect and ignoring **1 point of target hardness**. You can extend it up to **5m** toward an enemy for an attack (standard action, **CC** or **CD** test, your choice). The blade returns to normal size after the attack, with no additional chakra cost for extension.
+- **Create Blade**: [Chakra Cost: 4] You create a short sword blade (or another light sword) from your hand, dealing damage per the **Energize** effect and ignoring **1 point of target hardness**. You can extend it up to **5m** toward an enemy for an attack (standard action, **MC** or **RC** test, your choice). The blade returns to normal size after the attack, with no additional chakra cost for extension.
 
 **Evolutions**:
 
@@ -75,6 +75,6 @@ This effect combines aspects of **Create Weapon** and **Energize** with restrict
 - **Duration**: Instantaneous
 - **Chakra Cost**: Standard for the power
 
-You create an electric current and discharge it around you, dealing **half the standard power damage**. If any damage is dealt, the target must pass a **Stamina test (standard difficulty -3)** or be **stunned** until the end of their next turn.
+You create an electric current and discharge it around you, dealing **half the standard power damage**. If any damage is dealt, the target must pass a **Vigor test (standard difficulty -3)** or be **stunned** until the end of their next turn.
 
-Alternatively, you can focus the current into a single projectile attack or discharge it during a melee attack with **Energize - Raiton** or **Electric Weapon: Energize** (if you have it). This increases the **Stamina test difficulty** by **+1**. This mode deals **half the standard power damage** (excluding Energize/Electric Weapon melee damage). If used via Energize, no hand seals are required.
+Alternatively, you can focus the current into a single projectile attack or discharge it during a melee attack with **Energize - Raiton** or **Electric Weapon: Energize** (if you have it). This increases the **Vigor test difficulty** by **+1**. This mode deals **half the standard power damage** (excluding Energize/Electric Weapon melee damage). If used via Energize, no hand seals are required.

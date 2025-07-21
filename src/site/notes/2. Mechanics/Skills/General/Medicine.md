@@ -6,9 +6,9 @@
 
 You can treat injuries, diseases, and poisons. With the exception of first aid, all other uses of this Skill require the Medical Ninja feat.
 
-**First Aid (DC 16)**: With a Standard Action, you can stabilize a bleeding character, stopping their Vitality loss. Each successful Medicine check (DC 16) removes 1 level of bleeding.
+**First Aid (DC 16)**: With a Standard Action, you can stabilize a bleeding character, stopping their Hit Points loss. Each successful Medicine check (DC 16) removes 1 level of bleeding.
 
-**Long-Term Care (DC 12)**: You can treat an injured person to help them recover faster. If you succeed on the check, they recover twice as many Vitality points from natural healing that day. This use takes one hour, and the maximum number of people you can treat per day equals half your Medicine Skill level.
+**Long-Term Care (DC 12)**: You can treat an injured person to help them recover faster. If you succeed on the check, they recover twice as many Hit Points from natural healing that day. This use takes one hour, and the maximum number of people you can treat per day equals half your Medicine Skill level.
 
 **Treat Disease**: Make a check against the disease’s DC. On a success, the patient gains a +4 bonus to their next Vigor check against the disease. This use takes one hour.
 
