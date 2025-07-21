@@ -5,7 +5,13 @@
 ![Hoshigaki.gif|banner p-ct](/img/user/z_Assets/Misc/Clans/Hoshigaki.gif)
 
 ---
+The **Hoshigaki Clan** is a shinobi clan from **Kirigakure**. All members share shark-like traits, such as sharp, pointed teeth and facial markings resembling gills. Their appearance alone signals their expertise in **Suiton** techniques, making them deadly in areas with large amounts of water.
 
+**Restricted Feats**: Chakra Expansion, Aquatic Predator, Natural Element: Suiton, Water Reserve.
+
+**Exclusive Summoning**: Shark (**Kuchiyose** as a Common Power).
+
+---
 ## RESTRICTED FEATS
 ### AQUATIC PREDATOR
 **Benefit:** Your skin is thick and covered in tough scales, and you have gills and rows of sharp teeth. You can breathe underwater and move at **double your normal speed** in water. Your special skin grants **Body Hardness 1** against all armed and unarmed attacks. At **Vigor 8**, this increases to **Body Hardness 2**, and at **Vigor  12**, it becomes **Body Hardness 3**.
