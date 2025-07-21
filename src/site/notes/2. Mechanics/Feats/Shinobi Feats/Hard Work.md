@@ -4,7 +4,7 @@
 
 You are not a genius, know no secret techniques, or belong to a clan, but you train every day to match the great ninjas.
 
-- **Prerequisite**: Must not have a [[2. Mechanics/Character Rules/3. - Clans\|Clan]] or Hijutsu
+- **Prerequisite**: Must not have a [[2. Mechanics/Character Rules/3. - Clans, Kekkei Genkai, and Hijutsu\|Clan]] or Hijutsu
 - **Benefit**: Each turn, you can choose one of the following bonuses and gain it until the start of your next turn. These bonuses apply to any type of attack or defense and stack with bonuses from other feats:
 
 	- +5 meters to movement speed
