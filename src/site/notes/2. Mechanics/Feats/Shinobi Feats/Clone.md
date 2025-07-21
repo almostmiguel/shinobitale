@@ -17,7 +17,7 @@ You can create an exact material replica of yourself, indistinguishable from the
 
 - **Hit Points and Chakra Points**: Clones have only 1 Hit Point and no Chakra Points. Clones made of different materials may have different Hit Points and Chakra Points (see below).
 
-- **Mentality**: Each clone has its own mind, which is a copy of the user’s mind. The clones’ minds are not connected to each other or to the user, preventing any form of communication between them. A clone can be targeted by mind-control or mind-reading techniques, such as genjutsu or the [[Yamanaka\|Yamanaka]] clan’s Shinraishin. If a clone is affected by a mental effect, it does not affect other clones or the user.
+- **Mentality**: Each clone has its own mind, which is a copy of the user’s mind. The clones’ minds are not connected to each other or to the user, preventing any form of communication between them. A clone can be targeted by mind-control or mind-reading techniques, such as genjutsu or the [[2. Mechanics/Clans/Yamanaka\|Yamanaka]] clan’s Shinraishin. If a clone is affected by a mental effect, it does not affect other clones or the user.
 
 - **Duration**: Continuous. You or the clone can end the technique with a **Free Action**. You cannot reuse the technique in the same turn a clone is dispelled.
 
