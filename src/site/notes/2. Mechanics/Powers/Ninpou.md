@@ -126,7 +126,7 @@ If destroyed, protected characters take the remaining damage after hardness redu
 - **Barrier Level 6**: Becomes a **hemispherical dome**, fully enclosing the user or trapping enemies (standard action, CD test -2).
 - **Barrier Level 9**: **+2 hardness**.
 
-**FLECHAS (ARROWS)**
+**ARROWS**
 
 - **Available for**: Ninpou, all basic elements
 - **Action**: Standard
@@ -216,9 +216,9 @@ You energize your fist, a held weapon, or a compartment of projectiles. When att
 
 With **Ambidexterity**, you can energize two weapons with one action, paying chakra for each. The effect ends if the weapon is sheathed or, for projectiles, at the end of your turn after being thrown. Energized weapons allow **Block** against projectile techniques (e.g., Cannon, Arrows) but can be blocked normally.
 
-You can use Energize immediately after **Create Weapon** (same element) as a **free action**. It cannot be used with other melee-altering support techniques (e.g., **Juuken**, **Chakra Scalpel**). **Special weapons** (e.g., Adamantine Staff, p. 230) cannot be energized unless specified.
+You can use Energize immediately after **Create Weapon** (same element) as a **free action**. It cannot be used with other melee-altering support techniques (e.g., **Juuken**, **Chakra Scalpel**). **Special weapons** (e.g., Adamantine Staff) cannot be energized unless specified.
 
-**NUVEM (CLOUD)**
+**CLOUD**
 
 - **Available for**: Ninpou, Doton, Fuuton, Suiton
 - **Action**: Standard
@@ -230,14 +230,14 @@ You can use Energize immediately after **Create Weapon** (same element) as a **f
 
 You create a hot, corrosive, or otherwise hazardous cloud, fired as a cone and settling as a circular area with **double the standard diameter**. It persists while you maintain **concentration**. At the start of your turn, living creatures in the cloud must pass a **Stamina test (standard difficulty -2)** or take **1 fixed damage per power level** and become **slowed** due to coughing or other adverse effects. You are unaffected. Creatures avoiding contact with the cloud for a turn avoid its effects.
 
-The cloud has an **imaginary hardness** (standard for the power). Area attacks with explosions (e.g., Katon) or winds (e.g., Fuuton) reduce its hardness. If reduced to zero, the cloud dissipates. Imaginary hardness follows object hardness rules (p. 274) but doesn’t reduce attack damage.
+The cloud has an **imaginary hardness** (standard for the power). Area attacks with explosions (e.g., Katon) or winds (e.g., Fuuton) reduce its hardness. If reduced to zero, the cloud dissipates. Imaginary hardness follows object hardness rules but doesn’t reduce attack damage.
 
 **Evolutions**:
 
 - **Cloud Level 7**: Duration becomes **sustained**.
 - **Cloud Level 10**: **+3 hardness**, and fixed damage is **doubled**.
 
-**SOPRO DESTRUTIVO (DESTRUCTIVE BREATH)**
+**DESTRUCTIVE BREATH**
 
 - **Available for**: Ninpou, all basic elements
 - **Action**: Standard
@@ -257,7 +257,7 @@ You project a cone-shaped attack (e.g., a fiery breath for Katon), dealing **sta
 
 #### LEVEL 6 EFFECTS
 
-**CORRENTEZA (TORRENT)**
+**TORRENT**
 
 - **Available for**: Ninpou, Doton, Fuuton, Suiton
 - **Action**: Standard
@@ -272,7 +272,7 @@ You conjure a wave of water, mud, wind, or another fluid, sweeping enemies in a 
 
 - **Torrent Level 8**: Targets failing the Stamina test and colliding with an obstacle are also **stunned** until the end of their next turn.
 
-**MÍSSIL (MISSILE)**
+**MISSILE**
 
 - **Available for**: Ninpou, all basic elements
 - **Action**: Standard
@@ -290,7 +290,7 @@ You fire one or more missiles (e.g., mud dragon heads for Doton, sequential fire
 - **Missile Level 8**: Reroll the attack test **twice**, gaining **+1 damage** per success.
 - **Missile Level 10**: Reroll the attack test **four times**.
 
-**ONDA EXPLOSIVA (EXPLOSIVE WAVE)**
+**EXPLOSIVE WAVE**
 
 - **Available for**: Ninpou, all basic elements
 - **Action**: Standard
@@ -304,7 +304,7 @@ You project a shockwave around you (hemisphere or circle centered on you), takin
 
 - **Explosive Wave Level 8**: Targets failing the Stamina test are also **knocked prone**.
 
-**ALGEMAR (SHACKLE)**
+**SHACKLE**
 
 - **Available for**: Ninpou, Doton, Suiton
 - **Action**: Standard
@@ -313,7 +313,7 @@ You project a shockwave around you (hemisphere or circle centered on you), takin
 - **Damage**: None
 - **Duration**: Concentration
 
-You bind one or both of the target’s legs with shackles, ropes, or structures made from your power’s material, rendering them **immobilized** without dealing damage. The victim can destroy the shackles (standard power hardness) or break free with a **Strength** or **Escape** test (standard action). They can also use effects not requiring foot mobility. Area attacks damaging the shackles reduce their hardness (see Barrier or p. 274).
+You bind one or both of the target’s legs with shackles, ropes, or structures made from your power’s material, rendering them **immobilized** without dealing damage. The victim can destroy the shackles (standard power hardness) or break free with a **Strength** or **Escape** test (standard action). They can also use effects not requiring foot mobility. Area attacks damaging the shackles reduce their hardness.
 
 **Evolutions**:
 
