@@ -30,7 +30,7 @@ The **Sharingan** is a powerful doujutsu exclusive to the Uchiha Clan, often awa
 - **Chakra Vision:** You can distinguish chakra by color, identifying when an opponent uses a jutsu, no matter how subtle. You can also detect if someone is trapped in a genjutsu or if a jutsu affects a specific area or creature. You cannot see through chakra-based creations (e.g., **Suiton's Mist** effect) or physical cover/camouflage.
 - **Measure Power:** By observing a creature's chakra, you can estimate their approximate strength (i.e., their character sheet level).
 - **Distinguish Chakra:** You can differentiate creatures by their unique chakra signatures.
-- **Perceptive Dodge:** You can use **Anticipate Movement (AM)** instead of **Dodge (DOD)** for defense calculations, making the attacker's DC 9 + your LM accuracy. All standard dodge rules, benefits and penalties apply. You can use dodge bonuses (e.g., from the **Reflexes** feat) with this ability but cannot apply **Read Movement** accuracy bonuses (e.g., from the **Insight** feat)
+- **Perceptive Dodge:** You can use **Anticipate Movement (AM)** instead of **Dodge (DOD)** for defense calculations, making the attacker's DC 9 + your LM accuracy. All standard dodge rules, benefits and penalties apply. You can use dodge bonuses (e.g., from the **Reflexes** feat) with this ability but cannot apply **Anticipate Movement** accuracy bonuses (e.g., from the **Insight** feat)
 
 ### NIDAN SHARINGAN
 At this stage, the Uchiha gains greater mastery over their Kekkei Genkai, with the red iris now displaying two black commas.
