@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/2-mechanics/clans/hyuuga/"}
 ---
 
-![Hyuuga.gif|banner p-ct](/img/user/z_Assets/Misc/Clans/Hyuuga.gif)
+![Hyuuga.gif|banner p+c](/img/user/z_Assets/Misc/Clans/Hyuuga.gif)
 
 ---
 The **Hyuuga Clan** is one of the noblest clans in Konoha, known for its rigid internal hierarchy. Thanks to their powerful **Kekkei Genkai**, the Hyuuga possess the strongest **Taijutsu** in the village: **Juuken**.
@@ -21,7 +21,7 @@ The Byakugan is the Hyuuga Clan’s advanced bloodline, renowned across all nati
 **Prerequisites**: Perception 1, Genin
 **Benefit**: Activating Byakugan requires a **partial action** and **1 chakra point**. The doujutsu lasts for an entire scene and can be activated during defense. While active, the user gains the following benefits:
 
-- **Super Vision**: Grants **360° X-ray vision**, seeing through any material and ignoring all levels of **Cover**. The user is unaffected by **Partial or Total Camouflage** penalties from environmental sources (illusions or blindness penalties still apply).
+- **Super Vision**: Grants a near **360° X-ray vision**, seeing through any material and ignoring all levels of **Cover**. The user is unaffected by **Partial or Total Camouflage** penalties from environmental sources (illusions or blindness penalties still apply). They have a **blind spot** on the back of their head.
 - **Chakra Vision**: Allows the user to see chakra by color, identifying when an opponent uses a jutsu, even if hidden, and detecting if someone is trapped in a genjutsu or if a jutsu affects an area or creature.
 - **Vision Through Chakra**: The user can see through chakra-based effects, unaffected by techniques like **Mist** (Suiton).
 - **Measure Power**: The user can estimate a creature’s approximate strength (character sheet level) by observing their chakra.

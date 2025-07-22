@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/2-mechanics/clans/hoshigaki/"}
 ---
 
-![Hoshigaki.gif|banner p-ct](/img/user/z_Assets/Misc/Clans/Hoshigaki.gif)
+![Hoshigaki.gif|banner p+ct](/img/user/z_Assets/Misc/Clans/Hoshigaki.gif)
 
 ---
 The **Hoshigaki Clan** is a shinobi clan from **Kirigakure**. All members share shark-like traits, such as sharp, pointed teeth and facial markings resembling gills. Their appearance alone signals their expertise in **Suiton** techniques, making them deadly in areas with large amounts of water.
