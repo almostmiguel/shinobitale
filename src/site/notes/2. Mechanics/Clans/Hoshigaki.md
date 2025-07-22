@@ -13,6 +13,12 @@ The **Hoshigaki Clan** is a shinobi clan from **Kirigakure**. All members share 
 
 ---
 ## RESTRICTED FEATS
+
+### CHAKRA EXPANSION
+The character is endowed with an additional amount of chakra.
+
+Benefit: This aptitude increases the character's total chakra by 50%..
+
 ### AQUATIC PREDATOR
 **Benefit:** Your skin is thick and covered in tough scales, and you have gills and rows of sharp teeth. You can breathe underwater and move at **double your normal speed** in water. Your special skin grants **Body Hardness 1** against all armed and unarmed attacks. At **Vigor 8**, this increases to **Body Hardness 2**, and at **Vigor  12**, it becomes **Body Hardness 3**.
 
