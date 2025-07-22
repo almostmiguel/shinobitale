@@ -188,8 +188,6 @@ And also:
 
 - **1 Partial Action**
     
-- **1 Partial Action**
-    
 - **Unlimited Free Actions & Reactions** (with restrictions above)
     
 
@@ -300,9 +298,9 @@ Blocking while **unarmed** is **not allowed**, even with gauntlets.
 
 ### **ANTICIPATE**
 
-**Anticipating** is a **reaction** where you try to predict the enemy’s move to evade the attack, using your **Read Movement** skill.
+**Anticipating** is a **reaction** where you try to predict the enemy’s move to evade the attack, using your **Anticipate Movement** skill.
 
-- Roll a **contested check**: both attacker and defender roll **2d8 + Read Movement Accuracy (RM)**.
+- Roll a **contested check**: both attacker and defender roll **2d8 + Anticipate Movement Accuracy (AM)**.
     
 - If the defender rolls higher, the defense is successful.
     
@@ -520,7 +518,7 @@ Normally, weapons deal **lethal** damage. You can use a weapon to deal **non-let
 
 **Unarmed attacks** and certain specific weapons deal **non-lethal** damage. You may use an unarmed strike or a non-lethal weapon to cause **lethal damage**, but you suffer the same **-3 attack accuracy penalty**.
 
-Some techniques and aptitudes (such as _Iron Fist_) allow an attack that would normally deal non-lethal damage to instead deal **lethal** damage.
+Some techniques and feats (such as _Iron Fist_) allow an attack that would normally deal non-lethal damage to instead deal **lethal** damage.
 
 ---
 
@@ -530,7 +528,7 @@ Some techniques and aptitudes (such as _Iron Fist_) allow an attack that would n
 
 **Chakra = 10 + (3 × Spirit)**
 
-Whenever you use a technique, aptitude, or power that costs Chakra, subtract its cost from your total Chakra points.
+Whenever you use a technique, feat, or power that costs Chakra, subtract its cost from your total Chakra points.
 
 #### **OUT OF CHAKRA:**
 
@@ -606,13 +604,13 @@ At the end of your turn after performing the sneak attack (whether successful or
 #### **OPPORTUNITY ATTACK**  
 Sometimes in combat you do something that distracts you and leaves you vulnerable. Nearby enemies can take advantage and attack.
 
-- **Performing an opportunity attack:** You may make an opportunity attack when an opponent tries to leave your melee reach. It is a melee attack made as a free action that interrupts the enemy’s movement just before they leave. You cannot perform special maneuvers or use maneuver aptitudes in an opportunity attack.
+- **Performing an opportunity attack:** You may make an opportunity attack when an opponent tries to leave your melee reach. It is a melee attack made as a free action that interrupts the enemy’s movement just before they leave. You cannot perform special maneuvers or use maneuver feats in an opportunity attack.
     
 - You can only make **1 opportunity attack per round** and are not required to make one if you don’t want to.
     
 - You do **not** suffer opportunity attacks when teleporting or when being forcibly moved (e.g., pushed away by an explosion). Nor do you suffer one if the enemy is prone, paralyzed, or otherwise unable to attack.
     
-- **Avoiding opportunity attacks:** You can avoid opportunity attacks from one or more enemies by performing a **Safe Step**, using the **Retreat** maneuver, or the Acrobatics skill. These only apply to opportunity attacks triggered by trying to leave melee range, not by powers or aptitudes.
+- **Avoiding opportunity attacks:** You can avoid opportunity attacks from one or more enemies by performing a **Safe Step**, using the **Retreat** maneuver, or the Acrobatics skill. These only apply to opportunity attacks triggered by trying to leave melee range, not by powers or feats.
     
 - **Safe Step:** You can use your movement action to step 1 meter in any direction, moving away from an enemy without provoking opportunity attacks.
     
@@ -658,14 +656,14 @@ With a standard action, you fire a projectile with a ranged weapon like a bow or
 	
 - Reloading a ranged weapon requires a partial action. See the Draw Weapon maneuver for details.
 	
-- Simple weapons can be handled by any character without buying aptitudes. See the Weapon Table for which are simple, common, and special weapons.
+- Simple weapons can be handled by any character without buying feats. See the Weapon Table for which are simple, common, and special weapons.
 	
 - To attack with a martial ranged weapon, the character needs proficiency (buy the Weapon Training feat). Otherwise, a –3 penalty applies.
 
 ---
 
 #### **FEINT**  
-Using a standard action, you attempt to confuse an enemy. Make a Dexterity test against the target’s Notice. On success, the opponent is **feinted** (–2 accuracy penalty on their defense) against your next melee or touch-range attack, lasting until the end of your next turn.
+Using a standard action, you attempt to confuse an enemy. Make a Dexterity check against the target’s Notice. On success, the opponent is **feinted** (–2 accuracy penalty on their defense) against your next melee or touch-range attack, lasting until the end of your next turn.
 
 Some powers and feats allow feinting for ranged attacks.
 
@@ -680,7 +678,7 @@ When you fight melee with an opponent and an ally fights melee on the opposite s
 
 - The target suffers –1 accuracy on defense when flanked (weakened defense).
 	
-- To flank, both attackers must be positioned accordingly before the attack starts. A third attacker does not benefit from flanking unless a fourth attacker joins them.
+- To flank, both attackers must be positioned accordingly before the attack starts.
 	
 - You may use any melee attack check for flanking: Strike, maneuver feat, or touch technique.
 	
@@ -700,11 +698,11 @@ After the mercy strike, the effect, technique, or maneuver that left the victim 
 ---
 
 #### **STRIKE**  
-A melee attack, armed or unarmed. All Strike tests use the Melee Combat (MC) level as accuracy.
+A melee attack, armed or unarmed. All Strike checks use the Melee Combat (MC) level as accuracy.
 
 - To attack with a weapon, the character must be proficient (buy Weapon Training feat). Otherwise, –3 penalty applies.
 	
-- Simple weapons can be used by any character without aptitudes. See Weapon Table for simple and martial weapons.
+- Simple weapons can be used by any character without feats. See Weapon Table for simple and martial weapons.
 	
 - You may only strike adjacent targets. An adjacent target is within 1 meter for medium-sized characters. Long weapons double this range to 2 meters. Larger creatures can strike farther.
 	
@@ -786,19 +784,19 @@ Any creature with a movement speed of 1 meter or less **cannot** perform the saf
 
 ---
 
-#### READY ACTION
+#### PREPARE ACTION
 
-This action allows you to prepare to perform a standard action later—after your turn but before your next turn. To do this, state the action you will attempt and under what circumstances. Then, at any time before your next turn, you can perform the readied action as a reaction to those circumstances.
+This action allows you to prepare a standard action to perform later—after your turn but before your next turn. To do this, state the action you will attempt and under what circumstances. Then, at any time before your next turn, you can perform the prepared action as a reaction to those circumstances.
 
-The readied action occurs immediately after the trigger you chose. This creates various unexpected and situational combat scenarios that depend on the GM to resolve.
+The prepared action occurs immediately after the trigger you chose. This creates various unexpected and situational combat scenarios that depend on the GM to resolve.
 
-Example: you ready a melee attack that will be performed as soon as the enemy tries to attack you. When the enemy attacks, the trigger for the readied action allows you to also attack, simultaneously, as a reaction! In this case, attacks may cancel each other out or both combatants may be harmed, depending on the GM.
+Example: you ready a melee attack that will be performed as soon as the enemy tries to attack you. When the enemy attacks, the trigger for the prepared action allows you to also attack, simultaneously, as a reaction! In this case, attacks may cancel each other out or both combatants may be harmed, depending on the GM.
 
-When the trigger occurs, you still must make any necessary tests for the chosen action (e.g., attack roll).
+When the trigger occurs, you still must make any necessary check for the chosen action (e.g., attack roll).
 
-If you have not performed your readied action by your next turn, you lose the right to perform it (although you may ready the same action again).
+If you have not performed your prepared action by your next turn, you lose the right to perform it (although you may ready the same action again).
 
-Readying an action is always a standard action, and you cannot use other actions together with it. However, you may convert your standard action into a movement or partial action within the readying.
+Preparing an action is always a standard action, and you cannot use other actions together with it. However, you may convert your standard action into a movement or partial action within the preparing.
 
 ---
 
@@ -820,7 +818,7 @@ To use the Prediction Maneuvers listed here, you must succeed in a contested Ant
 
 Except for **Anticipate**, no other Prediction Maneuver may be used against opportunity attacks or when caught off-guard. However, the maneuvers **Nullify**, **Overcome**, and **Defend with Technique** can be used to defend an ally.
 
-Most prediction maneuvers require movement, standard, or both types of actions to use. This means you must have the required action available at the moment you perform the defense. Meeting this requirement, you spend the required action and perform the defense regardless of your initiative order. The action and chakra cost (if any) must be spent before the AM test. If the AM test fails, the defense is not performed in time, but the costs and actions are not recovered.
+Most prediction maneuvers require movement, standard, or both types of actions to use. This means you must have the required action available at the moment you perform the defense. Meeting this requirement, you spend the required action and perform the defense regardless of your initiative order. The action and chakra cost (if any) must be spent before the AM check. If the AM check fails, the defense is not performed in time, but the costs and actions are not recovered.
 
 
 #### ANTICIPATE
@@ -833,7 +831,7 @@ The character tries to predict the attack’s trajectory and get out of the way.
 
 By spending a movement action, you can move while defending yourself, moving in any direction you choose. During this movement, you can also dive behind any cover you find along the way. This movement does **not provoke opportunity attacks** from the enemy you are defending against, but **does provoke opportunity attacks from any other enemies within melee range at the start or during your movement**.
 
-You cannot use this maneuver if you have already moved by any other method during this round. If you fail the Anticipate Movement (AM) test, in addition to taking the attack, your movement is interrupted (and in this case, it does not count against your movement limit).
+You cannot use this maneuver if you have already moved by any other method during this round. If you fail the Anticipate Movement (AM) check, in addition to taking the attack, your movement is interrupted (and in this case, it does not count against your movement limit).
 
 ---
 
@@ -853,7 +851,7 @@ You must use this prediction maneuver immediately after successfully nullifying 
 
 This maneuver can only be used to confront techniques of the same range type: ranged technique against ranged technique, or touch technique against touch technique.
 
-If the base damage of your technique used to nullify is greater than the enemy’s technique (also applying elemental advantages), make an attack test with -3 penalty against the opponent, who defends normally.
+If the base damage of your technique used to nullify is greater than the enemy’s technique (also applying elemental advantages), make an attack check with -3 penalty against the opponent, who defends normally.
 
 If successful, your technique overcomes the enemy’s technique, dealing base damage equal to the difference between the techniques’ damage values.
 
@@ -891,19 +889,19 @@ A grabbed creature is _restrained_ and cannot move (it suffers weakened attack a
 
 **Maintaining the hold:** To maintain a grabbed creature, you must spend your standard action and keep both hands occupied. You are considered slow and drag the grabbed creature when you move. You may release it with a free action.
 
-If you suffer damage while maintaining the hold, the victim gets a reaction test to break free.
+If you suffer damage while maintaining the hold, the victim gets a reaction check to break free.
 
 **Freeing an ally:** To free someone grabbed by an enemy, you make the same check as the grab maneuver to separate the enemy from the grabbed ally.
 
 **Sharing space:** Although you do not occupy the same space, you and the grabbed creature are always as close as possible. You are also considered restrained when attacked while maintaining the hold.
 
-Area attacks may hit both you and the grabbed creature. When single-target melee, projectile, or technique attacks against the grabbed creature miss, there is a 50% chance they hit you: roll 1 die; if the result is 4 or less, you are hit. The attacker uses the same attack test made against the grabbed creature, and you are entitled to a defensive action.
+Area attacks may hit both you and the grabbed creature. When single-target melee, projectile, or technique attacks against the grabbed creature miss, there is a 50% chance they hit you: roll 1 die; if the result is 4 or less, you are hit. The attacker uses the same attack check made against the grabbed creature, and you are entitled to a defensive action.
 
 ---
 
 #### TRAMPLE
 
-This maneuver must be used with _Charge_ and is used to knock down the target and/or advance so they cannot stay in your path. Make an MC test; if you succeed, you advance and knock down the target, who falls prone.
+This maneuver must be used with _Charge_ and is used to knock down the target and/or advance so they cannot stay in your path. Make an MC check; if you succeed, you advance and knock down the target, who falls prone.
 
 If the target succeeds with a Dodge or Anticipate, they simply step aside and avoid the maneuver. If they succeed with a Block, they remain standing and stop your advance. For other defense types, apply their specific effects.
 
@@ -911,7 +909,7 @@ If the target succeeds with a Dodge or Anticipate, they simply step aside and av
 
 #### TAKEDOWN
 
-You knock down a standing target, leaving them prone. This fall usually does not cause damage but may require an Acrobatics test to avoid damage from a fall of great height.
+You knock down a standing target, leaving them prone. This fall usually does not cause damage but may require an Acrobatics check to avoid damage from a fall of great height.
 
 ---
 
@@ -953,7 +951,7 @@ This rule affects both base damage and fixed damage, but does **not** affect val
 
 If you want the Character or their Partner to skip using their standard action that round, you must announce it before acting.
 
-**Limited Techniques and Maneuvers:** The Partner shares your limits on maneuvers and techniques usage, such as Opportunity Attack and Kawarimi no Jutsu. So, if you perform an opportunity attack that round, your Partner cannot perform one (since by the rules only one opportunity attack is allowed per round). Similarly, if your Partner uses Kawarimi no Jutsu in that scene, you cannot use it afterward. This rule does not affect aptitudes and powers.
+**Limited Techniques and Maneuvers:** The Partner shares your limits on maneuvers and techniques usage, such as Opportunity Attack and Kawarimi no Jutsu. So, if you perform an opportunity attack that round, your Partner cannot perform one (since by the rules only one opportunity attack is allowed per round). Similarly, if your Partner uses Kawarimi no Jutsu in that scene, you cannot use it afterward. This rule does not affect feats and powers.
 
 ---
 
@@ -963,7 +961,7 @@ Mounted combat is quite common in the ninja world, although with big differences
 
 **Using a mount:** Getting on any type of mount is a movement action. Moving with a mount is also a movement action that must be spent both by the character and the mount (if the mount does not have actions, only the character spends the movement action).
 
-**Common Mount:** Using a common mount (such as horses) requires Animal Handling 2 and no test is necessary.
+**Common Mount:** Using a common mount (such as horses) requires Animal Handling 2 and no check is necessary.
 
 Common mounts have no actions. They also cannot be used in combat (they get scared as soon as a fight starts). If the mount gets scared (by combat or any other reason), you must make an Animal Handling or Acrobatics check, DC 12. If you fail, you lose control of the mount and are unbalanced, falling to the ground (this fall does not cause damage).
 
@@ -973,11 +971,11 @@ Only creatures of Large size or bigger can be used as special mounts. When you a
 
 Size modifiers to accuracy apply normally. So, if you defend using the mount’s Dodge, a Medium attacker will get a bonus to their attack accuracy due to the size difference, even if the initial target of the attack was not the creature.
 
-**Taking Damage:** If you suffer an attack with Damage Grade 3, immediately make an Acrobatics test (DC 4 + attacker’s attack accuracy). If you fail, you fall to the ground.
+**Taking Damage:** If you suffer an attack with Damage Grade 3, immediately make an Acrobatics check (DC 4 + attacker’s attack accuracy). If you fail, you fall to the ground.
 
-If the attack hits both you and your mount, both must make the test, and you fall if either fails.
+If the attack hits both you and your mount, both must make the check, and you fall if either fails.
 
-If the attack was a critical hit, Acrobatics tests are automatic failures.
+If the attack was a critical hit, Acrobatics checks are automatic failures.
 
 This fall causes no damage unless the mount has wings. If so, apply the flight disturbance rules for Aerial Combat.
 
@@ -999,19 +997,19 @@ When one of the characters can fly—whether by having wings, a levitation techn
 
 **Melee Combat:** To make a melee attack against a winged creature, you must also be winged or have some way to reach your enemy, such as running up the wall of a nearby building using the basic Kinobori jutsu, or through a technique that extends your melee reach, like the Chakra Arm from the hijutsu Jinchuuriki.
 
-**Jump Attack:** You can perform the Charge maneuver to run, jump, and attack a winged target. If you do this, your total movement is halved and you do not receive the Charge precision bonus (but still suffer the penalty). At the end of the maneuver, you land 1 meter past the target’s position. A critical failure on your Athletics test means you miss the jump, take fall damage, and fall prone.
+**Jump Attack:** You can perform the Charge maneuver to run, jump, and attack a winged target. If you do this, your total movement is halved and you do not receive the Charge precision bonus (but still suffer the penalty). At the end of the maneuver, you land 1 meter past the target’s position. A critical failure on your Athletics check means you miss the jump, take fall damage, and fall prone.
 
 **Winged Attack:** If your flying ability does not allow you to hover in place, you can only make melee attacks if you have and use the Moving Attack skill (against winged targets or not). If flying by mount, both you and the mount must have this skill.
 
-**Flight Disturbance:** Any attack that deals damage may disrupt your flight and knock you to the ground. If you suffer an attack with Damage Grade 3, immediately make an Acrobatics test (DC 4 + attacker’s attack accuracy). If you fail, you fall to the ground.
+**Flight Disturbance:** Any attack that deals damage may disrupt your flight and knock you to the ground. If you suffer an attack with Damage Grade 3, immediately make an Acrobatics check (DC 4 + attacker’s attack accuracy). If you fail, you fall to the ground.
 
-If the attack hits both you and your mount, both must make the test, and you fall if either fails (if the mount fails, it also falls).
+If the attack hits both you and your mount, both must make the check, and you fall if either fails (if the mount fails, it also falls).
 
-If the attack was a critical hit, Acrobatics tests automatically fail.
+If the attack was a critical hit, Acrobatics checks automatically fail.
 
 **Movement Restrictions:** If you (or your winged mount, if applicable) suffer the conditions impeded, paralyzed, or unconscious, you immediately fall to the ground. You also fall if subjected to the Knockdown maneuver.
 
-**Fall:** Whatever the cause, falling in aerial combat causes fixed damage equal to the character’s Vigor, and the character falls prone. This damage cannot be reduced by skill tests.
+**Fall:** Whatever the cause, falling in aerial combat causes fixed damage equal to the character’s Vigor, and the character falls prone. This damage cannot be reduced by skill checks.
 
 ---
 
@@ -1022,18 +1020,18 @@ If the attack was a critical hit, Acrobatics tests automatically fail.
 **Attack:** Attack modifiers apply to Combat Skill accuracies. Larger characters are more noticeable and easier to hit compared to smaller ones. Apply the following modifiers:  
 Whenever attacking a larger target, add +1 to CC (Close Combat) and CD (Distance Combat) for every 2 size categories difference.
 
-|Size|Strength & Vigor|Attack (vs Medium)|Melee Reach|Stealth Penalty|Intimidate Bonus|Movement Modifier|Height Range|Weight Range|
-|---|---|---|---|---|---|---|---|---|
-|Tiny|-7|+2 CC and CD|1 m|+5|-2|-12 m|15 cm or less|125 g or less|
-|Diminutive|-5|+1 CC and CD|1 m|+3|-2|-9 m|15 cm to 30 cm|125 g to 0.5 kg|
-|Small|-3|+1 CC and CD|1 m|+2|-1|-6 m|30 cm to 60 cm|0.5 kg to 4 kg|
-|Small|-1|+0|1 m|+1|-1|-3 m|60 cm to 1.2 m|4 kg to 30 kg|
-|Medium|+0|+0|1 m|+0|+0|+0 m|1.2 m to 2.4 m|30 kg to 250 kg|
-|Large|+1|+0|2 m|-1|+1|+3 m|2.4 m to 4.8 m|250 kg to 2 t|
-|Huge|+3|+0|3 m|-2|+1|+6 m|4.8 m to 9.6 m|2 t to 16 t|
-|Immense|+5|+0|4 m|-3|+2|+9 m|9.6 m to 19.2 m|16 t to 125 t|
-|Colossal|+7|+0|5 m|-5|+2|+12 m|19.2 m to 38.4 m|125 t to 1,000 t|
-|Incredible|+9|+0|6 m|-7|+3|+15 m|38.4 m or more|1,000 t or more|
+| Size       | Strength & Vigor | Attack (vs Medium) | Melee Reach | Stealth Penalty | Intimidate Bonus | Movement Modifier | Height Range     | Weight Range     |
+| ---------- | ---------------- | ------------------ | ----------- | --------------- | ---------------- | ----------------- | ---------------- | ---------------- |
+| Minuscule  | -7               | +2 CC and CD       | 1 m         | +5              | -2               | -12 m             | 15 cm or less    | 125 g or less    |
+| Petite     | -5               | +1 CC and CD       | 1 m         | +3              | -2               | -9 m              | 15 cm to 30 cm   | 125 g to 0.5 kg  |
+| Slight     | -3               | +1 CC and CD       | 1 m         | +2              | -1               | -6 m              | 30 cm to 60 cm   | 0.5 kg to 4 kg   |
+| Modest     | -1               | +0                 | 1 m         | +1              | -1               | -3 m              | 60 cm to 1.2 m   | 4 kg to 30 kg    |
+| Standard   | +0               | +0                 | 1 m         | +0              | +0               | +0 m              | 1.2 m to 2.4 m   | 30 kg to 250 kg  |
+| Grand      | +1               | +0                 | 2 m         | -1              | +1               | +3 m              | 2.4 m to 4.8 m   | 250 kg to 2 t    |
+| Massive    | +3               | +0                 | 3 m         | -2              | +1               | +6 m              | 4.8 m to 9.6 m   | 2 t to 16 t      |
+| Vast       | +5               | +0                 | 4 m         | -3              | +2               | +9 m              | 9.6 m to 19.2 m  | 16 t to 125 t    |
+| Titanic    | +7               | +0                 | 5 m         | -5              | +2               | +12 m             | 19.2 m to 38.4 m | 125 t to 1,000 t |
+| Monumental | +9               | +0                 | 6 m         | -7              | +3               | +15 m             | 38.4 m or more   | 1,000 t or more  |
 
 _These attack adjustments apply only when the target defends using reactions such as Dodge, Block, or Anticipate._  
 _It is not possible to block attacks from enemies 2 or more size categories larger than you._  
@@ -1041,11 +1039,11 @@ _The table shows modifiers for attacks against a Medium-sized target._
 
 **Melee Range:** A normal Medium-sized character has a 1-meter reach, meaning they can make melee attacks against targets up to 1 meter away. Larger characters have longer reach, as shown in the Size table.
 
-From the Immense category onwards, if all enemies in front within your melee reach are 3 or more size categories smaller than you, you can attack all of them simultaneously, making a single CC test against each target’s individual defense. You cannot use maneuver skills when attacking this way.
+From the Immense category onwards, if all enemies in front within your melee reach are 3 or more size categories smaller than you, you can attack all of them simultaneously, making a single CC check against each target’s individual defense. You cannot use maneuver skills when attacking this way.
 
 **Stealth:** Larger characters have more difficulty sneaking, while smaller characters can slip by more easily. Apply this modifier to the character’s Stealth accuracy.
 
-**Intimidate:** Larger characters are more imposing. Apply this modifier to Intimidate tests and to difficulties resisting fear effects. This modifier cancels out against opponents of the same size.
+**Intimidate:** Larger characters are more imposing. Apply this modifier to Intimidate checks and to difficulties resisting fear effects. This modifier cancels out against opponents of the same size.
 
 **Movement:** Larger creatures take longer strides; smaller creatures take shorter steps. Movement modifiers cannot reduce movement below 1 meter.
 
@@ -1064,11 +1062,11 @@ From the Immense category onwards, if all enemies in front within your melee rea
 
 With total camouflage, your enemies must be able to find you by other means than sight, even if only approximately. If they cannot, they cannot attack you and any attempt automatically fails. They also cannot use techniques or powers that don’t require an attack roll but need to know the target’s position (such as mind control techniques).
 
-To determine approximate enemy location, a Stealth test versus Notice or Search is necessary, or information must be received from an ally with Sensor.
+To determine approximate enemy location, a Stealth check versus Notice or Search is necessary, or information must be received from an ally with Sensor.
 
 Conversely, if you cannot see the enemy and are attacked by them, you are considered unprepared.
 
-Characters with Sensor abilities (like the Sensor aptitude or Kagura Shingan) always have exact locations of creatures and are unaffected by camouflage failure. If someone with Sensor informs an ally about the enemy’s position, the ally can attack, but still suffers camouflage failure.
+Characters with Sensor abilities (like the Sensor feat or Kagura Shingan) always have exact locations of creatures and are unaffected by camouflage failure. If someone with Sensor informs an ally about the enemy’s position, the ally can attack, but still suffers camouflage failure.
 
 Area attacks may not be affected by camouflage in an environment. If the attack area is larger than the failure chance, the attacker does not need to roll for failure.
 
@@ -1097,7 +1095,7 @@ Sometimes it is necessary to break an object, especially if it is blocking a pat
 Trying to break or destroy an inanimate object — from a locked door to a sword wielded by an opponent — is different from attacking a creature.
 
 **Attacking an Object:**  
-Hitting a stationary object requires a test against a defense of difficulty 5. A moving object has defense difficulty 9. For an object being carried by another creature, use the Disarm maneuver.
+Hitting a stationary object requires a check against a defense of difficulty 5. A moving object has defense difficulty 9. For an object being carried by another creature, use the Disarm maneuver.
 
 If the object is larger or smaller than the character, you may apply the attack modifiers for Melee Combat (MC) and Ranged Combat (RC) from the Size Table.
 
@@ -1116,7 +1114,7 @@ Multiply hardness by 2 when comparing against Fixed Damage. If the attack has bo
 **Hardness of Barriers:**  
 When you protect yourself with a barrier or run behind some cover, like a wall or tree, the damage you would receive is reduced by the hardness before applying the damage degree.
 
-For example, if the Barrier has hardness 7 and a character wants to use it to defend against a technique causing 9 damage, the barrier breaks and 2 damage surpass the protection and are suffered by the character with the degree defined in the enemy's attack test.
+For example, if the Barrier has hardness 7 and a character wants to use it to defend against a technique causing 9 damage, the barrier breaks and 2 damage surpass the protection and are suffered by the character with the degree defined in the enemy's attack check.
 
 **Imaginary Hardness:**  
 This is the hardness of gaseous substances like air, smoke, and fog. This hardness exists only as a comparison criterion to know if the gas is dissipated or not by an attack. If imaginary hardness is not specified, its value is 1.
@@ -1124,7 +1122,7 @@ This is the hardness of gaseous substances like air, smoke, and fog. This hardne
 Whenever an area attack with explosions (e.g., Katon) or winds (e.g., Fuuton) is used over or inside the gas area, its hardness is reduced. If hardness reaches zero, it dissipates. Imaginary hardness follows all common rules for object hardness but does **not** protect against damage (base damage from attacks is **not** reduced by imaginary hardness!).
 
 **Body Hardness:**  
-Some powers or aptitudes provide hardness to the character’s own body, such as the Stone Skin effect (Doton) and the Resilience feat (Akimichi). In these cases, hardness protects the character against all attacks and is not reduced or lost, even if damage is higher.
+Some powers or feats provide hardness to the character’s own body, such as the Stone Skin effect (Doton) and the Resilience feat (Akimichi). In these cases, hardness protects the character against all attacks and is not reduced or lost, even if damage is higher.
 
 Body hardness does not stack. If you have more than one such bonus, apply only the highest (unless the specific rule says otherwise).
 
@@ -1171,7 +1169,7 @@ If a character falls from a great height, they may suffer damage from the fall. 
 
 For deadly falls (such as falling off a cliff), the victim may instantly enter the **dying** condition, depending on the scene and the GM’s criteria.
 
-You can perform an Acrobatics test to soften the fall as a free action. For every 2 points above 9 that you achieve on your test, reduce the fall height by 1 meter.
+You can perform an Acrobatics check to soften the fall as a free action. For every 2 points above 9 that you achieve on your check, reduce the fall height by 1 meter.
 
 If the fall is due to a jump, you may use Athletics instead of Acrobatics to soften the damage.
 
@@ -1179,7 +1177,7 @@ If the fall is due to a jump, you may use Athletics instead of Acrobatics to sof
 
 ### NEGATIVE CONDITIONS
 
-These are harmful conditions that can affect characters. A character may suffer these conditions due to an effect, technique, aptitude, or power. The rules to remove a condition are described in the effect that caused it.
+These are harmful conditions that can affect characters. A character may suffer these conditions due to an effect, technique, feats, or power. The rules to remove a condition are described in the effect that caused it.
 
 The GM can also apply a harmful condition to a player for narrative reasons (e.g., a character who catches a cold may receive the Fatigued or Exhausted condition). In such cases, the GM decides how the player gets rid of the condition.
 
@@ -1187,13 +1185,13 @@ The GM can also apply a harmful condition to a player for narrative reasons (e.g
     
 - If one condition is more severe than another, apply only the more severe one.
     
-- If different conditions apply penalties to accuracy, sum these penalties up to a maximum of -3 on the same test.
+- If different conditions apply penalties to accuracy, sum these penalties up to a maximum of -3 on the same check.
     
-- Penalties from a condition **never** apply to the tests made to get rid of that condition. For example, if a condition requires a Vigor test to remove it, that Vigor test does not receive penalties from that condition (but may receive penalties from other different conditions).
+- Penalties from a condition **never** apply to the checks made to get rid of that condition. For example, if a condition requires a Vigor check to remove it, that Vigor check does not receive penalties from that condition (but may receive penalties from other different conditions).
     
-- For removing conditions, the victim must make a test for **each** condition they are suffering, even if conditions are repeated.
+- For removing conditions, the victim must make a check for **each** condition they are suffering, even if conditions are repeated.
     
-- If the current condition evolved from another (e.g., Fatigued to Exhausted), first pass the test to return to the less severe condition, then make the test to become totally free.
+- If the current condition evolved from another (e.g., Fatigued to Exhausted), first pass the check to return to the less severe condition, then make the check to become totally free.
     
 
 ---
@@ -1202,11 +1200,11 @@ The GM can also apply a harmful condition to a player for narrative reasons (e.g
 
 - **Debilitated:**
     
-    - You suffer -1 accuracy penalty on all tests.
+    - You suffer -1 accuracy penalty on all checks.
         
-    - This condition can be applied only to specific tests (e.g., Strength debilitated, Attack debilitated, Defense debilitated).
+    - This condition can be applied only to specific checks (e.g., Strength debilitated, Attack debilitated, Defense debilitated).
         
-    - Penalty can increase, but max penalty on any test is -3.
+    - Penalty can increase, but max penalty on any check is -3.
         
     - If a harmful condition is not listed, the GM can use this as a generic penalty.
 
@@ -1226,7 +1224,7 @@ The GM can also apply a harmful condition to a player for narrative reasons (e.g
 
 - **Amputated:**
     
-    - Missing an arm or hand. Cannot use weapons requiring both hands or perform hand seals unless having specific aptitudes.
+    - Missing an arm or hand. Cannot use weapons requiring both hands or perform hand seals unless having specific feats.
 
 - **Frightened:**
     
@@ -1262,7 +1260,7 @@ The GM can also apply a harmful condition to a player for narrative reasons (e.g
 
 - **Blind:**
     
-    - Unable to see, suffer penalties equivalent to total visual camouflage. Cannot make Search or Notice (visual) tests or any action requiring vision.
+    - Unable to see, suffer penalties equivalent to total visual camouflage. Cannot make Search or Notice (visual) checks or any action requiring vision.
 
 - **Confused:**
     
@@ -1294,7 +1292,7 @@ The GM can also apply a harmful condition to a player for narrative reasons (e.g
     
     - Moves randomly, paying attention only to the fascinating effect while it lasts.
         
-    - Any potential threat allows a new test against the fascination effect.
+    - Any potential threat allows a new check against the fascination effect.
         
     - Obvious threats (like an attack) automatically break fascination.
 
@@ -1332,9 +1330,9 @@ The GM can also apply a harmful condition to a player for narrative reasons (e.g
 
 - **Defenseless or Paralyzed:**
     
-    - Completely unable to act or defend, but can try tests to remove the effect causing the condition.
+    - Completely unable to act or defend, but can try checks to remove the effect causing the condition.
         
-    - Attacks against you are automatic hits; you may suffer coup de grace.
+    - Attacks against you are automatic hits; you may suffer mercy strike.
 
 - **Slow:**
     
@@ -1352,7 +1350,7 @@ The GM can also apply a harmful condition to a player for narrative reasons (e.g
 
 - **Blinded:**
     
-    - Impaired vision; attack tests debilitated, and all skill or attribute tests that require sight are debilitated.
+    - Impaired vision; attack checks debilitated, and all skill or attribute check that require sight are debilitated.
 
 - **Bleeding:**
     
@@ -1366,9 +1364,9 @@ The GM can also apply a harmful condition to a player for narrative reasons (e.g
 
 - **Suffocating:**
     
-    - Unable to breathe. May attempt Vigor test each turn as free action to hold breath; difficulty increases +1 each turn.
+    - Unable to breathe. May attempt Vigor check each turn as free action to hold breath; difficulty increases +1 each turn.
         
-    - Each failed test causes fixed suffocation damage (determined by effect or equal to level).
+    - Each failed check causes fixed suffocation damage (determined by effect or equal to level).
         
     - At zero HP, unconscious; if suffocation continues, leads to death.
 
@@ -1376,7 +1374,7 @@ The GM can also apply a harmful condition to a player for narrative reasons (e.g
     
     - Cannot hear; initiative debilitated (-3).
         
-    - Cannot make Search or Notice (auditory) tests.
+    - Cannot make Search or Notice (auditory) checks.
 
 - **Dizzy:**
     

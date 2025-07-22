@@ -13,7 +13,7 @@ Through pure chakra control, you can deliver punches and kicks with superhuman s
 
 	The **Kyoudo Kyouka** attack cannot be blocked using the *Block* defense action with ordinary weapons or unarmed, but it can be blocked with a special weapon that explicitly allows such a defense in its description.
 
-	If the chakra has already been concentrated, you can use the **Kyoudo Kyouka** unarmed attack in standard maneuvers, such as *Charge*, *Opportunity Attack*, or *Coup de Grâce*.
+	If the chakra has already been concentrated, you can use the **Kyoudo Kyouka** unarmed attack in standard maneuvers, such as *Charge*, *Opportunity Attack*, or *Mercy Strike*.
 
 	As a close-combat attack technique, **Kyoudo Kyouka** can benefit from the [[2. Mechanics/Feats/Combat Feats/Specialist\|Specialist]] (Unarmed) or [[2. Mechanics/Feats/Combat Feats/Mastery\|Mastery]] feats, but never both simultaneously. No damage bonuses or weapon effects can be applied to **Kyoudo Kyouka**, nor can the [[2. Mechanics/Feats/Combat Feats/Improved Critical\|Improved Critical]] or *Maneuver Feats* be used.
 

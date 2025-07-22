@@ -51,7 +51,7 @@ Whenever a victim moves within the prison, you can immediately spend a **movemen
 **Stats:**
 - **Low Intellect:** Sharks allways have **Intelligence 0** and automatically fail any Intelligence-based checks. They cannot speak but can follow simple commands.
 -  **Numerous Summoning:** You can summon up to **8 sharks** at the highest level allowed by the power. They fail all **Combat Skill** tests except for **Swarm Attack** and are considered **minions**.
-- **Size:** Limited to **Large** size.
+- **Size:** Limited to **Grand** size.
 - **Main Attribute:** Strength, Dexterity, Perception.
 - **Skills:** Athletics (Swimming), Notice, Track.
 - **Powers:** None.

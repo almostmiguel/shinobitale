@@ -72,7 +72,7 @@ In **attack vs. defense** tests:
 - A defender’s **automatic success** applies only if the attack wasn’t a critical hit. Defenses like **Dodge** (which don’t require rolls) aren’t affected by automatic success/failure.
 - An **automatic success** occurs if the defender uses an invalid defense (e.g., blocking a heavy **Hachimon** attack).
 
-Some maneuvers, techniques, aptitudes, or powers (e.g., **Coup de Grâce**) explicitly grant **Automatic Success**, **Automatic Failure**, or **Automatic Critical Hit** under specific conditions.
+Some maneuvers, techniques, aptitudes, or powers (e.g., **Mercy Strike**) explicitly grant **Automatic Success**, **Automatic Failure**, or **Automatic Critical Hit** under specific conditions.
 
 ---
 

@@ -56,7 +56,7 @@ The dome’s thickness and chakra density render the target **paralyzed**, but t
 
 The effect can target multiple creatures if used via **Water Clones** (1 target per clone). Using a **Mizu Bunshin** avoids the close-combat penalty if far enough from the target, but the original user must maintain **concentration** (see Mizu Bunshin).
 
-A paralyzed target can use a **standard action** to make a **Strength** test (standard difficulty) or **Vigor** test (standard difficulty -2) to regain mobility for the scene, allowing them to attack the prison from within to destroy it. If a **coup de grâce** is attempted, the prison absorbs the attack and dissipates, with any excess damage affecting the target (automatic success, roll 2 dice for damage degree). Special defenses (e.g., **Kamui** intangibility) still apply.
+A paralyzed target can use a **standard action** to make a **Strength** test (standard difficulty) or **Vigor** test (standard difficulty -2) to regain mobility for the scene, allowing them to attack the prison from within to destroy it. If a **Mercy Strike** is attempted, the prison absorbs the attack and dissipates, with any excess damage affecting the target (automatic success, roll 2 dice for damage degree). Special defenses (e.g., **Kamui** intangibility) still apply.
 
 This effect cannot be used with **meta-aptitudes**.
 

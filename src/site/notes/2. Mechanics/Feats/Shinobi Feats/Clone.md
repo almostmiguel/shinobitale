@@ -25,7 +25,7 @@ You can create an exact material replica of yourself, indistinguishable from the
 
 - **Combat**: Clones are considered Minions and follow these rules:
 
-	- Minions cannot score critical hits against non-minions or use coup de grâce.
+	- Minions cannot score critical hits against non-minions or use Mercy Strike.
 	- Non-minions can reroll one die on attack checks against minions (normally, you cannot reroll dice on attack checks). You must still roll two dice to determine the damage degree.
 	- Minions do not gain attacks of opportunity against non-minions.
 
