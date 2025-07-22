@@ -6,15 +6,15 @@ The check system governs how a character's actions—such as attacking, tracking
 
 ---
 
-### PRECISION
+### ACCURACY
 
-**Precision** represents a character’s ability to perform an action. It is determined as follows:
+**Accuracy** represents a character’s ability to perform an action. It is determined as follows:
 
-- For **skills**, precision equals the skill level (e.g., **Notice 3** means precision 3).
-- For **attributes** and **combat abilities** (e.g., Melee Combat (MC), Ranged Combat (RC), Dodge (DOD), Anticipate Movement (AM)), precision is the attribute or ability level.
-- For **powers**, use the relevant combat ability’s precision (e.g., **Ranged Combat** for a Katon fireball).
+- For **skills**, accuracy equals the skill level (e.g., **Notice 3** means accuracy 3).
+- For **attributes** and **combat abilities** (e.g., Melee Combat (MC), Ranged Combat (RC), Dodge (DOD), Anticipate Movement (AM)), accuracy is the attribute or ability level.
+- For **powers**, use the relevant combat ability’s accuracy (e.g., **Ranged Combat** for a Katon fireball).
 
-Precision can be modified by **accuracy bonuses** or **penalties** from combat situations, powers, or aptitudes.
+Accuracy can be modified by **accuracy bonuses** or **penalties** from combat situations, powers, or aptitudes.
 
 ---
 
@@ -29,16 +29,16 @@ All checks use **eight-sided dice (d8)**. When “roll 1 die” is mentioned, it
 To perform a test:
 
 1. Roll **2d8** and sum the results.
-2. Add your **precision** for the relevant attribute, skill, or ability.
+2. Add your **accuracy** for the relevant attribute, skill, or ability.
 3. Compare the total to the test’s **Difficulty Class (DC)**. If equal or higher, you succeed.
 
 **Difficulty  Class (DC)** depends on the target:
 
-- **Against a Target (person/creature that can defend)**: DC = **9 + target’s precision**.
+- **Against a Target (person/creature that can defend)**: DC = **9 + target’s accuracy**.
     - Example: Attacking with a kunai uses **2d8 + Ranged Combat**. If the target dodges, DC = **9 + target’s Dodge**.
 - **Against a Thing (objects, undefending creatures, situations)**: DC is set by the Game Master, based on skill rules and **campaign level**.
 
-**Campaign Level**: The maximum attribute value allowed in the campaign (e.g., 10 for a level 10 campaign). Difficulties typically range from **6 to 10 above the campaign level** (e.g., 16–20 for level 10). For **combat abilities** (MC, RC, DOD, AM), add **+3** to the difficulty calculation. The Game Master may adjust difficulties as needed.
+**Campaign Level**: The maximum attribute value allowed in the campaign (e.g., 10 for a level 10 campaign). DC typically ranges from **6 to 10 above the campaign level** (e.g., 16–20 for level 10). For **combat abilities** (MC, RC, DOD, AM), add **+3** to the difficulty calculation. The Game Master may adjust difficulties as needed.
 
 **Difficulty Table**:
 
@@ -54,7 +54,7 @@ To perform a test:
 
 ##### CHECK AGAINST CHECK
 
-When facing active resistance (e.g., attacking vs. blocking [MC vs. MC], hiding vs. searching [Stealth vs. Search]), both parties roll **2d8 + precision**. The higher total wins. If tied, the higher precision wins; if precisions are equal, reroll or the Game Master decides based on the scene.
+When facing active resistance (e.g., attacking vs. blocking [MC vs. MC], hiding vs. searching [Stealth vs. Search]), both parties roll **2d8 + accuracy**. The higher total wins. If tied, the higher accuracy wins; if accuracy are equal, reroll or the Game Master decides based on the scene.
 
 For non-attack/defense tests, the order of rolling is set by the Game Master.
 
@@ -62,8 +62,8 @@ For non-attack/defense tests, the order of rolling is set by the Game Master.
 
 #### AUTOMATIC SUCCESS AND FAILURE
 
-- **Critical Success (15–16)**: Always succeeds, regardless of difficulty. In a **test against test**, a critical success wins unless the opponent also rolls a critical (then reroll).
-- **Critical Failure (2–3)**: Always fails, regardless of precision.
+- **Critical Success (15–16)**: Always succeeds, regardless of DC. In a **test against test**, a critical success wins unless the opponent also rolls a critical (then reroll).
+- **Critical Failure (2–3)**: Always fails, regardless of accuracy.
 
 In **attack vs. defense** tests:
 
@@ -82,11 +82,11 @@ Tests represent tasks under time pressure or danger. In less demanding situation
 
 ##### SIMULATE HALF-DIE
 
-If your **precision** is **≥ Difficulty - 4**, assume **1d8 = 4** (simulating half a die) for an automatic success, even under pressure, as the task is trivial. For tests with multiple success levels, assume the minimum success. You may roll for a higher success, or the Game Master may assign a higher level based on circumstances.
+If your **accuracy** is **≥ DC - 4**, assume **1d8 = 4** (simulating half a die) for an automatic success, even under pressure, as the task is trivial. For tests with multiple success levels, assume the minimum success. You may roll for a higher success, or the Game Master may assign a higher level based on circumstances.
 
 ##### SIMULATE 1 DIE
 
-Without pressure, assume **1d8 = 8**. This often ensures automatic success for routine tasks but cannot be used in combat or under stress (Game Master’s call). Against **minions**, assume an attack result of **8 + precision**, with the minion defending against it. Roll **2d8** for damage degree.
+Without pressure, assume **1d8 = 8**. This often ensures automatic success for routine tasks but cannot be used in combat or under stress (Game Master’s call). Against **minions**, assume an attack result of **8 + accuracy**, with the minion defending against it. Roll **2d8** for damage degree.
 
 ##### SIMULATE 2 DICE
 
@@ -106,6 +106,6 @@ When luck isn’t a factor and skill determines the outcome (e.g., arm-wrestling
     - Unspecified attack bonuses apply to both **MC** and **RC**; unspecified defense bonuses apply to **DOD**, **AM**, or **MC** (for blocking).
     - Bonuses **exceed campaign level limits** (e.g., Strength 10 + 1 = 11 in a level 10 campaign) but **don’t count toward prerequisites** (e.g., a **+1 CC** from an aptitude doesn’t qualify for **Multiattack**).
     - Multiple bonuses from different sources stack (e.g., **+1 MC** from one aptitude + **+1 MC** from another = **+2 MC**).
-- **Penalties**: Apply similarly. If penalties exceed precision, you have **negative precision**. Multiple penalties stack, but only up to **-3** per test.
+- **Penalties**: Apply similarly. If penalties exceed accuracy, you have **negative accuracy**. Multiple penalties stack, but only up to **-3** per test.
 - **Dodge Bonuses**: Lost if **flat-footed** or unable to move.
 - **Size Bonuses**: Permanent **Strength** and **Vigor** bonuses from size count for prerequisites and Hit Points calculations, but temporary size increases (e.g., **Baika no Jutsu**, **Bijuu Form**) do not.

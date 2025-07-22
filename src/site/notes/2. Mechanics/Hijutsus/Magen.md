@@ -20,7 +20,7 @@ For **Phantom**, **Compulsion**, and **Affliction** illusions, the user selects 
 
 - **Action**: Standard (unless specified otherwise by the Effect).
 - **Chakra Cost**: Equals the Effect’s level.
-- **Check**: No precision check is required to use this power.
+- **Check**: No accuracy check is required to use this power.
     - For **external illusions** (Phantom), observers must interact with the illusion to determine its reality.
     - For **mental illusions** (Compulsion, Affliction), the target must pass an **Intelligence check** or succumb. DC = **9 + Magen Power Level + ½ Intelligence (rounded up)**, including the **Deep Illusion** bonus. Against **minions**, increase DC by **+3**.
 - **Duration**: Varies by illusion type:
@@ -119,7 +119,7 @@ For **Phantom**, **Compulsion**, and **Affliction** illusions, the user selects 
 
 #### DISORIENT (COMPULSION)
 
-- The target loses their sense of direction, automatically failing all **Track** checks and wandering in circles. **Sensor ninjas** are affected but gain **+2 precision** to identify the genjutsu.
+- The target loses their sense of direction, automatically failing all **Track** checks and wandering in circles. **Sensor ninjas** are affected but gain **+2 accuracy** to identify the genjutsu.
 - **Evolutions**:
     - **Disorient Level 6**: Can target multiple targets without resistance DC penalties.
     - **Disorient Level 9**: Can be used as an **Affliction**.

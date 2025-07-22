@@ -192,7 +192,7 @@ As stated in the character creation section, there are no common **Taijutsu** po
 - **Duration**: Instantaneous
 - **Chakra Cost**: 0
 - **Description**: A spinning low kick using the **Leg Sweep** maneuver to knock the enemy prone.
-    - **With Leg Sweep Feat**: +1 precision to the technique.
+    - **With Leg Sweep Feat**: +1 accuracy to the technique.
     - **With Aggressive Takedown**: Option to deal damage or knock prone.
     - **With Spinning Attack**: Hits all targets around the user.
 

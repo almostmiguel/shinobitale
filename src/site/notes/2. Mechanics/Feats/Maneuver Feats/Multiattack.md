@@ -28,6 +28,6 @@ You can strike multiple times when armed or unarmed, splitting your damage among
         
     - If the target has any detrimental conditions (e.g., feinted or flat-footed), the penalty applies to **all attacks**.
         
-    - Likewise, any precision bonuses or penalties apply to all attacks.
+    - Likewise, any accuracy bonuses or penalties apply to all attacks.
         
     - You cannot use **Multiattack** if the maneuver, power, or feat requires a **single attack** (e.g., the Charge maneuver).
