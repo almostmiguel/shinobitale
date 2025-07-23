@@ -5,7 +5,8 @@
 Originating from Iwagakure’s **Explosion Corps**, **Bakuton** is a Kekkei Genkai that combines **Earth (Doton)** and **Lightning (Raiton)** elements to create explosive attacks, blending ninjutsu and taijutsu for a highly offensive and disruptive fighting style. **Kibaku Nendo** is a specialized form of **Bakuton**, utilizing **Explosive Clay** crafted through artistic skill to enhance strategic and destructive capabilities.
 
 **Restricted Feats**: Demolition, Molding Mouth  
-**Restricted Power**: Bakuton (Explosion Release), Kibaku Nendo (Explosive Clay)  
+**Restricted Power**: Bakuton (Explosion Release), Kibaku Nendo (Explosive Clay) 
+
 **Prerequisites**:
 
 - **Bakuton**: Spirit 3
