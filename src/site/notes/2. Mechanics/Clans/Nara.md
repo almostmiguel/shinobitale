@@ -37,7 +37,9 @@ The Nara Clan character can purchase the restricted power **Kagejutsu**, gaining
         - **Dodge** is fixed at **9**.
         - Prone/winged conditions do not affect accuracy or range.
 
-#### LEVEL 3: KAGE MANE NO JUTSU (SHADOW IMITATION TECHNIQUE)
+- **Kage Shibari 2 (Requires Level 4)**: You can pass your technique through the shadow of an ally to extend its range without impairing your allies movements.
+
+#### LEVEL 2: KAGE MANE NO JUTSU (SHADOW IMITATION TECHNIQUE)
 
 - **Type**: Ninjutsu / Hijutsu
 - **Action**: Standard
@@ -54,7 +56,7 @@ The Nara Clan character can purchase the restricted power **Kagejutsu**, gaining
     - **Guided Shadow (Requires Level 8)**: Connect to an ally’s shadow with a weak link, allowing free movement (requires concentration). If the ally’s shadow touches an enemy’s (within 1m), pay chakra cost to activate **Kage Mane** with **Silent Technique** benefits. Duration starts upon activation.
     - **Perfect Shadow (Requires Level 9)**: Duration becomes **sustained**.
 
-#### LEVEL 4: KAGE MANE SHURIKEN NO JUTSU (SHADOW IMITATION SHURIKEN TECHNIQUE)
+#### LEVEL 3: KAGE MANE SHURIKEN NO JUTSU (SHADOW IMITATION SHURIKEN TECHNIQUE)
 
 - **Type**: Ninjutsu / Hijutsu
 - **Action**: Partial (preparation)
