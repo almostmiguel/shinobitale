@@ -37,7 +37,7 @@ The Nara Clan character can purchase the restricted power **Kagejutsu**, gaining
         - **Dodge** is fixed at **9**.
         - Prone/winged conditions do not affect accuracy or range.
 
-- **Kage Shibari 2 (Requires Level 4)**: You can pass your technique through the shadow of an ally to extend its range without impairing your allies movements.
+- **Kage Shibari Kage Mane no Jutsu (Requires Level 4)**: You can pass your technique through the shadow of an ally to extend its range without impairing your allies movements, and force a captured target to mimic your movements.
 
 #### LEVEL 2: KAGE MANE NO JUTSU (SHADOW IMITATION TECHNIQUE)
 
