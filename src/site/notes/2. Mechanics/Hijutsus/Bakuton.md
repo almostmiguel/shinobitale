@@ -18,7 +18,7 @@ Originating from Iwagakure’s **Explosion Corps**, **Bakuton** is a Kekkei Genk
 
 - **Bakuton** uses unique mechanics, distinct from **Ninpou**, focusing on explosive effects.
     
-- **Kibaku Nendo** builds on **Bakuton**, requiring **Clay Bombs** as material and using **Art** as the key proficiency (replacing Spirit for range, damage, and resistance check difficulties).
+- **Kibaku Nendo** builds on **Bakuton**, requiring **Clay Units** as material and using **Art** as the key proficiency (replacing Spirit for range, damage, and resistance check difficulties).
     
 - **Doton and Raiton**: Grants **1 free level** in both **Doton** and **Raiton**, with the **Cannon** effect usable at **Bakuton** or **Kibaku Nendo** level. Additional levels must be purchased separately.
     
@@ -70,7 +70,7 @@ Originating from Iwagakure’s **Explosion Corps**, **Bakuton** is a Kekkei Genk
 
 - **Prerequisite**: Art 12, Kibaku Nendo 6
     
-- **Benefit**: Develops a mouth on the hands or chest to craft **Clay Bombs** beyond daily preparations.
+- **Benefit**: Develops a mouth on the hands or chest to craft **Clay Units** beyond daily preparations.
     
     - With a **full action**, create **2 × Art level** bombs (+4 if **Expert: Art** or **Innate Skill: Art**, cumulative).
         
@@ -218,7 +218,7 @@ Originating from Iwagakure’s **Explosion Corps**, **Bakuton** is a Kekkei Genk
         
     - **Limitations**: Cannot attack, immune to mental effects.
         
-    - **Explosion**: Use as material for any **Kibaku Nendo** effect (level ≤ mount’s creation level, with sufficient Clay Bombs). Destroys the mount.
+    - **Explosion**: Use as material for any **Kibaku Nendo** effect (level ≤ mount’s creation level, with sufficient Clay Units). Destroys the mount.
         
 - **Travel Mount**: Costs **half chakra** (rounded up), **permanent duration**. In combat, pay remaining chakra for combat rules.
     
@@ -282,7 +282,7 @@ Originating from Iwagakure’s **Explosion Corps**, **Bakuton** is a Kekkei Genk
     
 - **Description**: Follows **Clone** feat rules.
     
-    - Can be used as material/activation point for any **Kibaku Nendo** effect (requires sufficient Clay Bombs). Destroys the clone (except for **Shackle**).
+    - Can be used as material/activation point for any **Kibaku Nendo** effect (requires sufficient Clay Units). Destroys the clone (except for **Shackle**).
         
     - **Raiton** dispels without explosion.
         
@@ -315,11 +315,3 @@ Originating from Iwagakure’s **Explosion Corps**, **Bakuton** is a Kekkei Genk
         
 
 ---
-
-**Notes**:
-
-- **Bakuton** focuses on direct explosive strikes, ideal for close-range combat, while **Kibaku Nendo** emphasizes strategic, long-range, and area-based explosions using crafted clay.
-    
-- **Clay Bomb Management**: **Kibaku Nendo** users must track bomb inventory, making **Molding Mouth** critical for sustained combat.
-    
-- **Synergy**: **Bakuton** techniques can be used alongside **Kibaku Nendo** if the character has both, but **Kibaku Nendo** requires **Bakuton 1** and **Clay Units**.

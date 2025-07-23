@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/2-mechanics/hijutsus/magen/"}
 ---
 
+# RESTRICTED POWER
+
 **Prerequisites**: Intelligence 6, Fascinate, Mirage, Deep Illusion (Feats)
 
 You possess an extraordinary talent for genjutsu, excelling from the earliest stages of your ninja career. The barriers that limit ordinary shinobi in using genjutsu are completely shattered by you, creating illusions so vivid they blur the line between illusion and reality.

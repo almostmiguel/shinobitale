@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/2-mechanics/hijutsus/hachimon-tonkou/"}
 ---
 
+# RESTRICTED POWER
+
 - **Prerequisite**: Vigor 6
 - **Range**: Personal
 - **Action**: See text
